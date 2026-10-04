@@ -1,0 +1,10 @@
+open_clip_torch
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+tqdm
+pyyaml
+huggingface_hub
+safetensors
