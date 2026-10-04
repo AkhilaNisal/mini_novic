@@ -1,0 +1,22 @@
+# Local Python environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large/generated project files
+embeddings/
+checkpoints/
+
+# Model/cache files
+.cache/
+huggingface/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
