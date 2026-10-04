@@ -1,0 +1,17 @@
+project:
+  name: mini_novic
+  seed: 42
+
+clip:
+  model_name: ViT-B-32
+  pretrained: laion2b_s34b_b79k
+
+runtime:
+  device: cuda
+
+paths:
+  drive_root: /content/drive/MyDrive/mini_novic_storage
+  datasets: /content/drive/MyDrive/mini_novic_storage/datasets
+  embeddings: /content/drive/MyDrive/mini_novic_storage/embeddings
+  checkpoints: /content/drive/MyDrive/mini_novic_storage/checkpoints
+  results: /content/drive/MyDrive/mini_novic_storage/results
