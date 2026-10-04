@@ -1,0 +1,501 @@
+noun_id,noun_text,template_id,caption,split,predicted_id,predicted_noun,correct
+0,dog,13,A dog in a photograph,val,0,dog,True
+0,dog,17,A dog viewed from the side,val,0,dog,True
+0,dog,19,A dog seen nearby,val,0,dog,True
+0,dog,25,the central object is a dog,val,0,dog,True
+0,dog,26,the scene includes a dog,val,0,dog,True
+0,dog,30,there is a dog in the image,val,0,dog,True
+0,dog,32,there is a dog in the scene,val,0,dog,True
+0,dog,39,the object shown is a dog,val,0,dog,True
+0,dog,45,a scene containing a dog,val,0,dog,True
+0,dog,48,a visual example of a dog,val,0,dog,True
+1,cat,13,A cat in a photograph,val,1,cat,True
+1,cat,17,A cat viewed from the side,val,1,cat,True
+1,cat,19,A cat seen nearby,val,1,cat,True
+1,cat,25,the central object is a cat,val,1,cat,True
+1,cat,26,the scene includes a cat,val,1,cat,True
+1,cat,30,there is a cat in the image,val,1,cat,True
+1,cat,32,there is a cat in the scene,val,1,cat,True
+1,cat,39,the object shown is a cat,val,1,cat,True
+1,cat,45,a scene containing a cat,val,1,cat,True
+1,cat,48,a visual example of a cat,val,1,cat,True
+2,bird,13,A bird in a photograph,val,2,bird,True
+2,bird,17,A bird viewed from the side,val,2,bird,True
+2,bird,19,A bird seen nearby,val,2,bird,True
+2,bird,25,the central object is a bird,val,2,bird,True
+2,bird,26,the scene includes a bird,val,2,bird,True
+2,bird,30,there is a bird in the image,val,2,bird,True
+2,bird,32,there is a bird in the scene,val,2,bird,True
+2,bird,39,the object shown is a bird,val,2,bird,True
+2,bird,45,a scene containing a bird,val,2,bird,True
+2,bird,48,a visual example of a bird,val,2,bird,True
+3,horse,13,A horse in a photograph,val,3,horse,True
+3,horse,17,A horse viewed from the side,val,3,horse,True
+3,horse,19,A horse seen nearby,val,3,horse,True
+3,horse,25,the central object is a horse,val,3,horse,True
+3,horse,26,the scene includes a horse,val,3,horse,True
+3,horse,30,there is a horse in the image,val,3,horse,True
+3,horse,32,there is a horse in the scene,val,3,horse,True
+3,horse,39,the object shown is a horse,val,3,horse,True
+3,horse,45,a scene containing a horse,val,3,horse,True
+3,horse,48,a visual example of a horse,val,3,horse,True
+4,elephant,13,An elephant in a photograph,val,4,elephant,True
+4,elephant,17,An elephant viewed from the side,val,4,elephant,True
+4,elephant,19,An elephant seen nearby,val,4,elephant,True
+4,elephant,25,the central object is an elephant,val,4,elephant,True
+4,elephant,26,the scene includes an elephant,val,4,elephant,True
+4,elephant,30,there is an elephant in the image,val,4,elephant,True
+4,elephant,32,there is an elephant in the scene,val,4,elephant,True
+4,elephant,39,the object shown is an elephant,val,4,elephant,True
+4,elephant,45,a scene containing an elephant,val,4,elephant,True
+4,elephant,48,a visual example of an elephant,val,4,elephant,True
+5,cow,13,A cow in a photograph,val,5,cow,True
+5,cow,17,A cow viewed from the side,val,5,cow,True
+5,cow,19,A cow seen nearby,val,5,cow,True
+5,cow,25,the central object is a cow,val,5,cow,True
+5,cow,26,the scene includes a cow,val,5,cow,True
+5,cow,30,there is a cow in the image,val,5,cow,True
+5,cow,32,there is a cow in the scene,val,5,cow,True
+5,cow,39,the object shown is a cow,val,5,cow,True
+5,cow,45,a scene containing a cow,val,5,cow,True
+5,cow,48,a visual example of a cow,val,5,cow,True
+6,sheep,13,A sheep in a photograph,val,6,sheep,True
+6,sheep,17,A sheep viewed from the side,val,6,sheep,True
+6,sheep,19,A sheep seen nearby,val,6,sheep,True
+6,sheep,25,the central object is a sheep,val,6,sheep,True
+6,sheep,26,the scene includes a sheep,val,6,sheep,True
+6,sheep,30,there is a sheep in the image,val,6,sheep,True
+6,sheep,32,there is a sheep in the scene,val,6,sheep,True
+6,sheep,39,the object shown is a sheep,val,6,sheep,True
+6,sheep,45,a scene containing a sheep,val,6,sheep,True
+6,sheep,48,a visual example of a sheep,val,6,sheep,True
+7,bear,13,A bear in a photograph,val,7,bear,True
+7,bear,17,A bear viewed from the side,val,7,bear,True
+7,bear,19,A bear seen nearby,val,7,bear,True
+7,bear,25,the central object is a bear,val,7,bear,True
+7,bear,26,the scene includes a bear,val,7,bear,True
+7,bear,30,there is a bear in the image,val,7,bear,True
+7,bear,32,there is a bear in the scene,val,7,bear,True
+7,bear,39,the object shown is a bear,val,7,bear,True
+7,bear,45,a scene containing a bear,val,7,bear,True
+7,bear,48,a visual example of a bear,val,7,bear,True
+8,zebra,13,A zebra in a photograph,val,8,zebra,True
+8,zebra,17,A zebra viewed from the side,val,8,zebra,True
+8,zebra,19,A zebra seen nearby,val,8,zebra,True
+8,zebra,25,the central object is a zebra,val,8,zebra,True
+8,zebra,26,the scene includes a zebra,val,8,zebra,True
+8,zebra,30,there is a zebra in the image,val,8,zebra,True
+8,zebra,32,there is a zebra in the scene,val,8,zebra,True
+8,zebra,39,the object shown is a zebra,val,8,zebra,True
+8,zebra,45,a scene containing a zebra,val,8,zebra,True
+8,zebra,48,a visual example of a zebra,val,8,zebra,True
+9,giraffe,13,A giraffe in a photograph,val,9,giraffe,True
+9,giraffe,17,A giraffe viewed from the side,val,9,giraffe,True
+9,giraffe,19,A giraffe seen nearby,val,9,giraffe,True
+9,giraffe,25,the central object is a giraffe,val,9,giraffe,True
+9,giraffe,26,the scene includes a giraffe,val,9,giraffe,True
+9,giraffe,30,there is a giraffe in the image,val,9,giraffe,True
+9,giraffe,32,there is a giraffe in the scene,val,9,giraffe,True
+9,giraffe,39,the object shown is a giraffe,val,9,giraffe,True
+9,giraffe,45,a scene containing a giraffe,val,9,giraffe,True
+9,giraffe,48,a visual example of a giraffe,val,9,giraffe,True
+10,car,13,A car in a photograph,val,10,car,True
+10,car,17,A car viewed from the side,val,10,car,True
+10,car,19,A car seen nearby,val,10,car,True
+10,car,25,the central object is a car,val,10,car,True
+10,car,26,the scene includes a car,val,10,car,True
+10,car,30,there is a car in the image,val,10,car,True
+10,car,32,there is a car in the scene,val,10,car,True
+10,car,39,the object shown is a car,val,10,car,True
+10,car,45,a scene containing a car,val,10,car,True
+10,car,48,a visual example of a car,val,10,car,True
+11,bus,13,A bus in a photograph,val,11,bus,True
+11,bus,17,A bus viewed from the side,val,11,bus,True
+11,bus,19,A bus seen nearby,val,11,bus,True
+11,bus,25,the central object is a bus,val,11,bus,True
+11,bus,26,the scene includes a bus,val,11,bus,True
+11,bus,30,there is a bus in the image,val,11,bus,True
+11,bus,32,there is a bus in the scene,val,11,bus,True
+11,bus,39,the object shown is a bus,val,11,bus,True
+11,bus,45,a scene containing a bus,val,11,bus,True
+11,bus,48,a visual example of a bus,val,11,bus,True
+12,truck,13,A truck in a photograph,val,12,truck,True
+12,truck,17,A truck viewed from the side,val,12,truck,True
+12,truck,19,A truck seen nearby,val,12,truck,True
+12,truck,25,the central object is a truck,val,12,truck,True
+12,truck,26,the scene includes a truck,val,12,truck,True
+12,truck,30,there is a truck in the image,val,12,truck,True
+12,truck,32,there is a truck in the scene,val,12,truck,True
+12,truck,39,the object shown is a truck,val,12,truck,True
+12,truck,45,a scene containing a truck,val,12,truck,True
+12,truck,48,a visual example of a truck,val,12,truck,True
+13,bicycle,13,A bicycle in a photograph,val,13,bicycle,True
+13,bicycle,17,A bicycle viewed from the side,val,13,bicycle,True
+13,bicycle,19,A bicycle seen nearby,val,13,bicycle,True
+13,bicycle,25,the central object is a bicycle,val,13,bicycle,True
+13,bicycle,26,the scene includes a bicycle,val,13,bicycle,True
+13,bicycle,30,there is a bicycle in the image,val,13,bicycle,True
+13,bicycle,32,there is a bicycle in the scene,val,13,bicycle,True
+13,bicycle,39,the object shown is a bicycle,val,13,bicycle,True
+13,bicycle,45,a scene containing a bicycle,val,13,bicycle,True
+13,bicycle,48,a visual example of a bicycle,val,13,bicycle,True
+14,motorcycle,13,A motorcycle in a photograph,val,14,motorcycle,True
+14,motorcycle,17,A motorcycle viewed from the side,val,14,motorcycle,True
+14,motorcycle,19,A motorcycle seen nearby,val,14,motorcycle,True
+14,motorcycle,25,the central object is a motorcycle,val,14,motorcycle,True
+14,motorcycle,26,the scene includes a motorcycle,val,14,motorcycle,True
+14,motorcycle,30,there is a motorcycle in the image,val,14,motorcycle,True
+14,motorcycle,32,there is a motorcycle in the scene,val,14,motorcycle,True
+14,motorcycle,39,the object shown is a motorcycle,val,14,motorcycle,True
+14,motorcycle,45,a scene containing a motorcycle,val,14,motorcycle,True
+14,motorcycle,48,a visual example of a motorcycle,val,14,motorcycle,True
+15,airplane,13,An airplane in a photograph,val,15,airplane,True
+15,airplane,17,An airplane viewed from the side,val,15,airplane,True
+15,airplane,19,An airplane seen nearby,val,15,airplane,True
+15,airplane,25,the central object is an airplane,val,15,airplane,True
+15,airplane,26,the scene includes an airplane,val,15,airplane,True
+15,airplane,30,there is an airplane in the image,val,15,airplane,True
+15,airplane,32,there is an airplane in the scene,val,15,airplane,True
+15,airplane,39,the object shown is an airplane,val,15,airplane,True
+15,airplane,45,a scene containing an airplane,val,15,airplane,True
+15,airplane,48,a visual example of an airplane,val,15,airplane,True
+16,helicopter,13,A helicopter in a photograph,val,16,helicopter,True
+16,helicopter,17,A helicopter viewed from the side,val,16,helicopter,True
+16,helicopter,19,A helicopter seen nearby,val,16,helicopter,True
+16,helicopter,25,the central object is a helicopter,val,16,helicopter,True
+16,helicopter,26,the scene includes a helicopter,val,16,helicopter,True
+16,helicopter,30,there is a helicopter in the image,val,16,helicopter,True
+16,helicopter,32,there is a helicopter in the scene,val,16,helicopter,True
+16,helicopter,39,the object shown is a helicopter,val,16,helicopter,True
+16,helicopter,45,a scene containing a helicopter,val,16,helicopter,True
+16,helicopter,48,a visual example of a helicopter,val,16,helicopter,True
+17,boat,13,A boat in a photograph,val,17,boat,True
+17,boat,17,A boat viewed from the side,val,17,boat,True
+17,boat,19,A boat seen nearby,val,17,boat,True
+17,boat,25,the central object is a boat,val,17,boat,True
+17,boat,26,the scene includes a boat,val,17,boat,True
+17,boat,30,there is a boat in the image,val,17,boat,True
+17,boat,32,there is a boat in the scene,val,17,boat,True
+17,boat,39,the object shown is a boat,val,17,boat,True
+17,boat,45,a scene containing a boat,val,17,boat,True
+17,boat,48,a visual example of a boat,val,17,boat,True
+18,train,13,A train in a photograph,val,18,train,True
+18,train,17,A train viewed from the side,val,18,train,True
+18,train,19,A train seen nearby,val,18,train,True
+18,train,25,the central object is a train,val,18,train,True
+18,train,26,the scene includes a train,val,18,train,True
+18,train,30,there is a train in the image,val,18,train,True
+18,train,32,there is a train in the scene,val,18,train,True
+18,train,39,the object shown is a train,val,18,train,True
+18,train,45,a scene containing a train,val,18,train,True
+18,train,48,a visual example of a train,val,18,train,True
+19,sports car,13,A sports car in a photograph,val,19,sports car,True
+19,sports car,17,A sports car viewed from the side,val,19,sports car,True
+19,sports car,19,A sports car seen nearby,val,19,sports car,True
+19,sports car,25,the central object is a sports car,val,19,sports car,True
+19,sports car,26,the scene includes a sports car,val,19,sports car,True
+19,sports car,30,there is a sports car in the image,val,19,sports car,True
+19,sports car,32,there is a sports car in the scene,val,19,sports car,True
+19,sports car,39,the object shown is a sports car,val,19,sports car,True
+19,sports car,45,a scene containing a sports car,val,19,sports car,True
+19,sports car,48,a visual example of a sports car,val,19,sports car,True
+20,chair,13,A chair in a photograph,val,20,chair,True
+20,chair,17,A chair viewed from the side,val,20,chair,True
+20,chair,19,A chair seen nearby,val,20,chair,True
+20,chair,25,the central object is a chair,val,20,chair,True
+20,chair,26,the scene includes a chair,val,20,chair,True
+20,chair,30,there is a chair in the image,val,20,chair,True
+20,chair,32,there is a chair in the scene,val,20,chair,True
+20,chair,39,the object shown is a chair,val,20,chair,True
+20,chair,45,a scene containing a chair,val,20,chair,True
+20,chair,48,a visual example of a chair,val,20,chair,True
+21,table,13,A table in a photograph,val,21,table,True
+21,table,17,A table viewed from the side,val,21,table,True
+21,table,19,A table seen nearby,val,21,table,True
+21,table,25,the central object is a table,val,21,table,True
+21,table,26,the scene includes a table,val,21,table,True
+21,table,30,there is a table in the image,val,21,table,True
+21,table,32,there is a table in the scene,val,21,table,True
+21,table,39,the object shown is a table,val,21,table,True
+21,table,45,a scene containing a table,val,21,table,True
+21,table,48,a visual example of a table,val,21,table,True
+22,bed,13,A bed in a photograph,val,22,bed,True
+22,bed,17,A bed viewed from the side,val,22,bed,True
+22,bed,19,A bed seen nearby,val,22,bed,True
+22,bed,25,the central object is a bed,val,22,bed,True
+22,bed,26,the scene includes a bed,val,22,bed,True
+22,bed,30,there is a bed in the image,val,22,bed,True
+22,bed,32,there is a bed in the scene,val,22,bed,True
+22,bed,39,the object shown is a bed,val,22,bed,True
+22,bed,45,a scene containing a bed,val,22,bed,True
+22,bed,48,a visual example of a bed,val,22,bed,True
+23,sofa,13,A sofa in a photograph,val,23,sofa,True
+23,sofa,17,A sofa viewed from the side,val,23,sofa,True
+23,sofa,19,A sofa seen nearby,val,23,sofa,True
+23,sofa,25,the central object is a sofa,val,23,sofa,True
+23,sofa,26,the scene includes a sofa,val,23,sofa,True
+23,sofa,30,there is a sofa in the image,val,23,sofa,True
+23,sofa,32,there is a sofa in the scene,val,23,sofa,True
+23,sofa,39,the object shown is a sofa,val,23,sofa,True
+23,sofa,45,a scene containing a sofa,val,23,sofa,True
+23,sofa,48,a visual example of a sofa,val,23,sofa,True
+24,bottle,13,A bottle in a photograph,val,24,bottle,True
+24,bottle,17,A bottle viewed from the side,val,24,bottle,True
+24,bottle,19,A bottle seen nearby,val,24,bottle,True
+24,bottle,25,the central object is a bottle,val,24,bottle,True
+24,bottle,26,the scene includes a bottle,val,24,bottle,True
+24,bottle,30,there is a bottle in the image,val,24,bottle,True
+24,bottle,32,there is a bottle in the scene,val,24,bottle,True
+24,bottle,39,the object shown is a bottle,val,24,bottle,True
+24,bottle,45,a scene containing a bottle,val,24,bottle,True
+24,bottle,48,a visual example of a bottle,val,24,bottle,True
+25,cup,13,A cup in a photograph,val,25,cup,True
+25,cup,17,A cup viewed from the side,val,25,cup,True
+25,cup,19,A cup seen nearby,val,25,cup,True
+25,cup,25,the central object is a cup,val,25,cup,True
+25,cup,26,the scene includes a cup,val,25,cup,True
+25,cup,30,there is a cup in the image,val,25,cup,True
+25,cup,32,there is a cup in the scene,val,25,cup,True
+25,cup,39,the object shown is a cup,val,25,cup,True
+25,cup,45,a scene containing a cup,val,25,cup,True
+25,cup,48,a visual example of a cup,val,25,cup,True
+26,book,13,A book in a photograph,val,26,book,True
+26,book,17,A book viewed from the side,val,26,book,True
+26,book,19,A book seen nearby,val,26,book,True
+26,book,25,the central object is a book,val,26,book,True
+26,book,26,the scene includes a book,val,26,book,True
+26,book,30,there is a book in the image,val,26,book,True
+26,book,32,there is a book in the scene,val,26,book,True
+26,book,39,the object shown is a book,val,26,book,True
+26,book,45,a scene containing a book,val,26,book,True
+26,book,48,a visual example of a book,val,26,book,True
+27,clock,13,A clock in a photograph,val,27,clock,True
+27,clock,17,A clock viewed from the side,val,27,clock,True
+27,clock,19,A clock seen nearby,val,27,clock,True
+27,clock,25,the central object is a clock,val,27,clock,True
+27,clock,26,the scene includes a clock,val,27,clock,True
+27,clock,30,there is a clock in the image,val,27,clock,True
+27,clock,32,there is a clock in the scene,val,27,clock,True
+27,clock,39,the object shown is a clock,val,27,clock,True
+27,clock,45,a scene containing a clock,val,27,clock,True
+27,clock,48,a visual example of a clock,val,27,clock,True
+28,backpack,13,A backpack in a photograph,val,28,backpack,True
+28,backpack,17,A backpack viewed from the side,val,28,backpack,True
+28,backpack,19,A backpack seen nearby,val,28,backpack,True
+28,backpack,25,the central object is a backpack,val,28,backpack,True
+28,backpack,26,the scene includes a backpack,val,28,backpack,True
+28,backpack,30,there is a backpack in the image,val,28,backpack,True
+28,backpack,32,there is a backpack in the scene,val,28,backpack,True
+28,backpack,39,the object shown is a backpack,val,28,backpack,True
+28,backpack,45,a scene containing a backpack,val,28,backpack,True
+28,backpack,48,a visual example of a backpack,val,28,backpack,True
+29,umbrella,13,An umbrella in a photograph,val,29,umbrella,True
+29,umbrella,17,An umbrella viewed from the side,val,29,umbrella,True
+29,umbrella,19,An umbrella seen nearby,val,29,umbrella,True
+29,umbrella,25,the central object is an umbrella,val,29,umbrella,True
+29,umbrella,26,the scene includes an umbrella,val,29,umbrella,True
+29,umbrella,30,there is an umbrella in the image,val,29,umbrella,True
+29,umbrella,32,there is an umbrella in the scene,val,29,umbrella,True
+29,umbrella,39,the object shown is an umbrella,val,29,umbrella,True
+29,umbrella,45,a scene containing an umbrella,val,29,umbrella,True
+29,umbrella,48,a visual example of an umbrella,val,29,umbrella,True
+30,laptop,13,A laptop in a photograph,val,30,laptop,True
+30,laptop,17,A laptop viewed from the side,val,30,laptop,True
+30,laptop,19,A laptop seen nearby,val,30,laptop,True
+30,laptop,25,the central object is a laptop,val,30,laptop,True
+30,laptop,26,the scene includes a laptop,val,30,laptop,True
+30,laptop,30,there is a laptop in the image,val,30,laptop,True
+30,laptop,32,there is a laptop in the scene,val,30,laptop,True
+30,laptop,39,the object shown is a laptop,val,30,laptop,True
+30,laptop,45,a scene containing a laptop,val,30,laptop,True
+30,laptop,48,a visual example of a laptop,val,30,laptop,True
+31,keyboard,13,A keyboard in a photograph,val,31,keyboard,True
+31,keyboard,17,A keyboard viewed from the side,val,31,keyboard,True
+31,keyboard,19,A keyboard seen nearby,val,31,keyboard,True
+31,keyboard,25,the central object is a keyboard,val,31,keyboard,True
+31,keyboard,26,the scene includes a keyboard,val,31,keyboard,True
+31,keyboard,30,there is a keyboard in the image,val,31,keyboard,True
+31,keyboard,32,there is a keyboard in the scene,val,31,keyboard,True
+31,keyboard,39,the object shown is a keyboard,val,31,keyboard,True
+31,keyboard,45,a scene containing a keyboard,val,31,keyboard,True
+31,keyboard,48,a visual example of a keyboard,val,31,keyboard,True
+32,mouse,13,A mouse in a photograph,val,32,mouse,True
+32,mouse,17,A mouse viewed from the side,val,32,mouse,True
+32,mouse,19,A mouse seen nearby,val,32,mouse,True
+32,mouse,25,the central object is a mouse,val,32,mouse,True
+32,mouse,26,the scene includes a mouse,val,32,mouse,True
+32,mouse,30,there is a mouse in the image,val,32,mouse,True
+32,mouse,32,there is a mouse in the scene,val,32,mouse,True
+32,mouse,39,the object shown is a mouse,val,32,mouse,True
+32,mouse,45,a scene containing a mouse,val,32,mouse,True
+32,mouse,48,a visual example of a mouse,val,32,mouse,True
+33,phone,13,A phone in a photograph,val,33,phone,True
+33,phone,17,A phone viewed from the side,val,33,phone,True
+33,phone,19,A phone seen nearby,val,33,phone,True
+33,phone,25,the central object is a phone,val,33,phone,True
+33,phone,26,the scene includes a phone,val,33,phone,True
+33,phone,30,there is a phone in the image,val,33,phone,True
+33,phone,32,there is a phone in the scene,val,33,phone,True
+33,phone,39,the object shown is a phone,val,33,phone,True
+33,phone,45,a scene containing a phone,val,33,phone,True
+33,phone,48,a visual example of a phone,val,33,phone,True
+34,television,13,A television in a photograph,val,34,television,True
+34,television,17,A television viewed from the side,val,34,television,True
+34,television,19,A television seen nearby,val,34,television,True
+34,television,25,the central object is a television,val,34,television,True
+34,television,26,the scene includes a television,val,34,television,True
+34,television,30,there is a television in the image,val,34,television,True
+34,television,32,there is a television in the scene,val,34,television,True
+34,television,39,the object shown is a television,val,34,television,True
+34,television,45,a scene containing a television,val,34,television,True
+34,television,48,a visual example of a television,val,34,television,True
+35,camera,13,A camera in a photograph,val,35,camera,True
+35,camera,17,A camera viewed from the side,val,35,camera,True
+35,camera,19,A camera seen nearby,val,35,camera,True
+35,camera,25,the central object is a camera,val,35,camera,True
+35,camera,26,the scene includes a camera,val,35,camera,True
+35,camera,30,there is a camera in the image,val,35,camera,True
+35,camera,32,there is a camera in the scene,val,35,camera,True
+35,camera,39,the object shown is a camera,val,35,camera,True
+35,camera,45,a scene containing a camera,val,35,camera,True
+35,camera,48,a visual example of a camera,val,35,camera,True
+36,headphones,13,A headphones in a photograph,val,36,headphones,True
+36,headphones,17,A headphones viewed from the side,val,36,headphones,True
+36,headphones,19,A headphones seen nearby,val,36,headphones,True
+36,headphones,25,the central object is a headphones,val,36,headphones,True
+36,headphones,26,the scene includes a headphones,val,36,headphones,True
+36,headphones,30,there is a headphones in the image,val,36,headphones,True
+36,headphones,32,there is a headphones in the scene,val,36,headphones,True
+36,headphones,39,the object shown is a headphones,val,36,headphones,True
+36,headphones,45,a scene containing a headphones,val,36,headphones,True
+36,headphones,48,a visual example of a headphones,val,36,headphones,True
+37,printer,13,A printer in a photograph,val,37,printer,True
+37,printer,17,A printer viewed from the side,val,37,printer,True
+37,printer,19,A printer seen nearby,val,37,printer,True
+37,printer,25,the central object is a printer,val,37,printer,True
+37,printer,26,the scene includes a printer,val,37,printer,True
+37,printer,30,there is a printer in the image,val,37,printer,True
+37,printer,32,there is a printer in the scene,val,37,printer,True
+37,printer,39,the object shown is a printer,val,37,printer,True
+37,printer,45,a scene containing a printer,val,37,printer,True
+37,printer,48,a visual example of a printer,val,37,printer,True
+38,monitor,13,A monitor in a photograph,val,38,monitor,True
+38,monitor,17,A monitor viewed from the side,val,38,monitor,True
+38,monitor,19,A monitor seen nearby,val,38,monitor,True
+38,monitor,25,the central object is a monitor,val,38,monitor,True
+38,monitor,26,the scene includes a monitor,val,38,monitor,True
+38,monitor,30,there is a monitor in the image,val,38,monitor,True
+38,monitor,32,there is a monitor in the scene,val,38,monitor,True
+38,monitor,39,the object shown is a monitor,val,38,monitor,True
+38,monitor,45,a scene containing a monitor,val,38,monitor,True
+38,monitor,48,a visual example of a monitor,val,38,monitor,True
+39,calculator,13,A calculator in a photograph,val,39,calculator,True
+39,calculator,17,A calculator viewed from the side,val,39,calculator,True
+39,calculator,19,A calculator seen nearby,val,39,calculator,True
+39,calculator,25,the central object is a calculator,val,39,calculator,True
+39,calculator,26,the scene includes a calculator,val,39,calculator,True
+39,calculator,30,there is a calculator in the image,val,39,calculator,True
+39,calculator,32,there is a calculator in the scene,val,39,calculator,True
+39,calculator,39,the object shown is a calculator,val,39,calculator,True
+39,calculator,45,a scene containing a calculator,val,39,calculator,True
+39,calculator,48,a visual example of a calculator,val,39,calculator,True
+40,fire truck,13,A fire truck in a photograph,val,40,fire truck,True
+40,fire truck,17,A fire truck viewed from the side,val,40,fire truck,True
+40,fire truck,19,A fire truck seen nearby,val,40,fire truck,True
+40,fire truck,25,the central object is a fire truck,val,40,fire truck,True
+40,fire truck,26,the scene includes a fire truck,val,40,fire truck,True
+40,fire truck,30,there is a fire truck in the image,val,40,fire truck,True
+40,fire truck,32,there is a fire truck in the scene,val,40,fire truck,True
+40,fire truck,39,the object shown is a fire truck,val,40,fire truck,True
+40,fire truck,45,a scene containing a fire truck,val,40,fire truck,True
+40,fire truck,48,a visual example of a fire truck,val,40,fire truck,True
+41,traffic light,13,A traffic light in a photograph,val,41,traffic light,True
+41,traffic light,17,A traffic light viewed from the side,val,41,traffic light,True
+41,traffic light,19,A traffic light seen nearby,val,41,traffic light,True
+41,traffic light,25,the central object is a traffic light,val,41,traffic light,True
+41,traffic light,26,the scene includes a traffic light,val,41,traffic light,True
+41,traffic light,30,there is a traffic light in the image,val,41,traffic light,True
+41,traffic light,32,there is a traffic light in the scene,val,41,traffic light,True
+41,traffic light,39,the object shown is a traffic light,val,41,traffic light,True
+41,traffic light,45,a scene containing a traffic light,val,41,traffic light,True
+41,traffic light,48,a visual example of a traffic light,val,41,traffic light,True
+42,coffee mug,13,A coffee mug in a photograph,val,42,coffee mug,True
+42,coffee mug,17,A coffee mug viewed from the side,val,42,coffee mug,True
+42,coffee mug,19,A coffee mug seen nearby,val,42,coffee mug,True
+42,coffee mug,25,the central object is a coffee mug,val,42,coffee mug,True
+42,coffee mug,26,the scene includes a coffee mug,val,42,coffee mug,True
+42,coffee mug,30,there is a coffee mug in the image,val,42,coffee mug,True
+42,coffee mug,32,there is a coffee mug in the scene,val,42,coffee mug,True
+42,coffee mug,39,the object shown is a coffee mug,val,42,coffee mug,True
+42,coffee mug,45,a scene containing a coffee mug,val,42,coffee mug,True
+42,coffee mug,48,a visual example of a coffee mug,val,42,coffee mug,True
+43,tennis racket,13,A tennis racket in a photograph,val,43,tennis racket,True
+43,tennis racket,17,A tennis racket viewed from the side,val,43,tennis racket,True
+43,tennis racket,19,A tennis racket seen nearby,val,43,tennis racket,True
+43,tennis racket,25,the central object is a tennis racket,val,43,tennis racket,True
+43,tennis racket,26,the scene includes a tennis racket,val,43,tennis racket,True
+43,tennis racket,30,there is a tennis racket in the image,val,43,tennis racket,True
+43,tennis racket,32,there is a tennis racket in the scene,val,43,tennis racket,True
+43,tennis racket,39,the object shown is a tennis racket,val,43,tennis racket,True
+43,tennis racket,45,a scene containing a tennis racket,val,43,tennis racket,True
+43,tennis racket,48,a visual example of a tennis racket,val,43,tennis racket,True
+44,baseball bat,13,A baseball bat in a photograph,val,44,baseball bat,True
+44,baseball bat,17,A baseball bat viewed from the side,val,44,baseball bat,True
+44,baseball bat,19,A baseball bat seen nearby,val,44,baseball bat,True
+44,baseball bat,25,the central object is a baseball bat,val,44,baseball bat,True
+44,baseball bat,26,the scene includes a baseball bat,val,44,baseball bat,True
+44,baseball bat,30,there is a baseball bat in the image,val,44,baseball bat,True
+44,baseball bat,32,there is a baseball bat in the scene,val,44,baseball bat,True
+44,baseball bat,39,the object shown is a baseball bat,val,44,baseball bat,True
+44,baseball bat,45,a scene containing a baseball bat,val,44,baseball bat,True
+44,baseball bat,48,a visual example of a baseball bat,val,44,baseball bat,True
+45,parking meter,13,A parking meter in a photograph,val,45,parking meter,True
+45,parking meter,17,A parking meter viewed from the side,val,45,parking meter,True
+45,parking meter,19,A parking meter seen nearby,val,45,parking meter,True
+45,parking meter,25,the central object is a parking meter,val,45,parking meter,True
+45,parking meter,26,the scene includes a parking meter,val,45,parking meter,True
+45,parking meter,30,there is a parking meter in the image,val,45,parking meter,True
+45,parking meter,32,there is a parking meter in the scene,val,45,parking meter,True
+45,parking meter,39,the object shown is a parking meter,val,45,parking meter,True
+45,parking meter,45,a scene containing a parking meter,val,45,parking meter,True
+45,parking meter,48,a visual example of a parking meter,val,45,parking meter,True
+46,street sign,13,A street sign in a photograph,val,46,street sign,True
+46,street sign,17,A street sign viewed from the side,val,46,street sign,True
+46,street sign,19,A street sign seen nearby,val,46,street sign,True
+46,street sign,25,the central object is a street sign,val,46,street sign,True
+46,street sign,26,the scene includes a street sign,val,46,street sign,True
+46,street sign,30,there is a street sign in the image,val,46,street sign,True
+46,street sign,32,there is a street sign in the scene,val,46,street sign,True
+46,street sign,39,the object shown is a street sign,val,46,street sign,True
+46,street sign,45,a scene containing a street sign,val,46,street sign,True
+46,street sign,48,a visual example of a street sign,val,46,street sign,True
+47,water bottle,13,A water bottle in a photograph,val,47,water bottle,True
+47,water bottle,17,A water bottle viewed from the side,val,47,water bottle,True
+47,water bottle,19,A water bottle seen nearby,val,47,water bottle,True
+47,water bottle,25,the central object is a water bottle,val,47,water bottle,True
+47,water bottle,26,the scene includes a water bottle,val,47,water bottle,True
+47,water bottle,30,there is a water bottle in the image,val,47,water bottle,True
+47,water bottle,32,there is a water bottle in the scene,val,47,water bottle,True
+47,water bottle,39,the object shown is a water bottle,val,47,water bottle,True
+47,water bottle,45,a scene containing a water bottle,val,47,water bottle,True
+47,water bottle,48,a visual example of a water bottle,val,47,water bottle,True
+48,office chair,13,An office chair in a photograph,val,48,office chair,True
+48,office chair,17,An office chair viewed from the side,val,48,office chair,True
+48,office chair,19,An office chair seen nearby,val,48,office chair,True
+48,office chair,25,the central object is an office chair,val,48,office chair,True
+48,office chair,26,the scene includes an office chair,val,48,office chair,True
+48,office chair,30,there is an office chair in the image,val,48,office chair,True
+48,office chair,32,there is an office chair in the scene,val,48,office chair,True
+48,office chair,39,the object shown is an office chair,val,48,office chair,True
+48,office chair,45,a scene containing an office chair,val,48,office chair,True
+48,office chair,48,a visual example of an office chair,val,48,office chair,True
+49,dining table,13,A dining table in a photograph,val,49,dining table,True
+49,dining table,17,A dining table viewed from the side,val,49,dining table,True
+49,dining table,19,A dining table seen nearby,val,49,dining table,True
+49,dining table,25,the central object is a dining table,val,49,dining table,True
+49,dining table,26,the scene includes a dining table,val,49,dining table,True
+49,dining table,30,there is a dining table in the image,val,49,dining table,True
+49,dining table,32,there is a dining table in the scene,val,49,dining table,True
+49,dining table,39,the object shown is a dining table,val,49,dining table,True
+49,dining table,45,a scene containing a dining table,val,49,dining table,True
+49,dining table,48,a visual example of a dining table,val,49,dining table,True

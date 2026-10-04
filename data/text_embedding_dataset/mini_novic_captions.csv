@@ -1,0 +1,2501 @@
+noun_id,noun_text,template_id,caption,split
+0,dog,0,a photo of a dog,train
+0,dog,1,a photograph of a dog,train
+0,dog,2,an image of a dog,train
+0,dog,3,a picture of a dog,train
+0,dog,4,a clear photo of a dog,train
+0,dog,5,a close-up photo of a dog,train
+0,dog,6,a detailed photo of a dog,train
+0,dog,7,a cropped photo of a dog,train
+0,dog,8,a bright photo of a dog,train
+0,dog,9,a dark photo of a dog,train
+0,dog,10,A dog in the scene,train
+0,dog,11,A dog visible in the image,train
+0,dog,12,A dog shown clearly,train
+0,dog,13,A dog in a photograph,val
+0,dog,14,A dog in the picture,train
+0,dog,15,A dog near the center of the image,train
+0,dog,16,A dog viewed from the front,train
+0,dog,17,A dog viewed from the side,val
+0,dog,18,A dog viewed from a distance,train
+0,dog,19,A dog seen nearby,val
+0,dog,20,the image contains a dog,train
+0,dog,21,the photo contains a dog,train
+0,dog,22,the picture contains a dog,train
+0,dog,23,the main object is a dog,train
+0,dog,24,the visible object is a dog,train
+0,dog,25,the central object is a dog,val
+0,dog,26,the scene includes a dog,val
+0,dog,27,this scene contains a dog,train
+0,dog,28,this photograph shows a dog,train
+0,dog,29,this image shows a dog,train
+0,dog,30,there is a dog in the image,val
+0,dog,31,there is a dog in the photo,train
+0,dog,32,there is a dog in the scene,val
+0,dog,33,we can see a dog,train
+0,dog,34,one can see a dog,train
+0,dog,35,the photograph features a dog,train
+0,dog,36,the image features a dog,train
+0,dog,37,the picture features a dog,train
+0,dog,38,the scene features a dog,train
+0,dog,39,the object shown is a dog,val
+0,dog,40,a realistic image of a dog,train
+0,dog,41,a natural image of a dog,train
+0,dog,42,a simple image of a dog,train
+0,dog,43,a high-quality photo of a dog,train
+0,dog,44,a photograph containing a dog,train
+0,dog,45,a scene containing a dog,val
+0,dog,46,an everyday view of a dog,train
+0,dog,47,an example of a dog,train
+0,dog,48,a visual example of a dog,val
+0,dog,49,a recognizable dog,train
+1,cat,0,a photo of a cat,train
+1,cat,1,a photograph of a cat,train
+1,cat,2,an image of a cat,train
+1,cat,3,a picture of a cat,train
+1,cat,4,a clear photo of a cat,train
+1,cat,5,a close-up photo of a cat,train
+1,cat,6,a detailed photo of a cat,train
+1,cat,7,a cropped photo of a cat,train
+1,cat,8,a bright photo of a cat,train
+1,cat,9,a dark photo of a cat,train
+1,cat,10,A cat in the scene,train
+1,cat,11,A cat visible in the image,train
+1,cat,12,A cat shown clearly,train
+1,cat,13,A cat in a photograph,val
+1,cat,14,A cat in the picture,train
+1,cat,15,A cat near the center of the image,train
+1,cat,16,A cat viewed from the front,train
+1,cat,17,A cat viewed from the side,val
+1,cat,18,A cat viewed from a distance,train
+1,cat,19,A cat seen nearby,val
+1,cat,20,the image contains a cat,train
+1,cat,21,the photo contains a cat,train
+1,cat,22,the picture contains a cat,train
+1,cat,23,the main object is a cat,train
+1,cat,24,the visible object is a cat,train
+1,cat,25,the central object is a cat,val
+1,cat,26,the scene includes a cat,val
+1,cat,27,this scene contains a cat,train
+1,cat,28,this photograph shows a cat,train
+1,cat,29,this image shows a cat,train
+1,cat,30,there is a cat in the image,val
+1,cat,31,there is a cat in the photo,train
+1,cat,32,there is a cat in the scene,val
+1,cat,33,we can see a cat,train
+1,cat,34,one can see a cat,train
+1,cat,35,the photograph features a cat,train
+1,cat,36,the image features a cat,train
+1,cat,37,the picture features a cat,train
+1,cat,38,the scene features a cat,train
+1,cat,39,the object shown is a cat,val
+1,cat,40,a realistic image of a cat,train
+1,cat,41,a natural image of a cat,train
+1,cat,42,a simple image of a cat,train
+1,cat,43,a high-quality photo of a cat,train
+1,cat,44,a photograph containing a cat,train
+1,cat,45,a scene containing a cat,val
+1,cat,46,an everyday view of a cat,train
+1,cat,47,an example of a cat,train
+1,cat,48,a visual example of a cat,val
+1,cat,49,a recognizable cat,train
+2,bird,0,a photo of a bird,train
+2,bird,1,a photograph of a bird,train
+2,bird,2,an image of a bird,train
+2,bird,3,a picture of a bird,train
+2,bird,4,a clear photo of a bird,train
+2,bird,5,a close-up photo of a bird,train
+2,bird,6,a detailed photo of a bird,train
+2,bird,7,a cropped photo of a bird,train
+2,bird,8,a bright photo of a bird,train
+2,bird,9,a dark photo of a bird,train
+2,bird,10,A bird in the scene,train
+2,bird,11,A bird visible in the image,train
+2,bird,12,A bird shown clearly,train
+2,bird,13,A bird in a photograph,val
+2,bird,14,A bird in the picture,train
+2,bird,15,A bird near the center of the image,train
+2,bird,16,A bird viewed from the front,train
+2,bird,17,A bird viewed from the side,val
+2,bird,18,A bird viewed from a distance,train
+2,bird,19,A bird seen nearby,val
+2,bird,20,the image contains a bird,train
+2,bird,21,the photo contains a bird,train
+2,bird,22,the picture contains a bird,train
+2,bird,23,the main object is a bird,train
+2,bird,24,the visible object is a bird,train
+2,bird,25,the central object is a bird,val
+2,bird,26,the scene includes a bird,val
+2,bird,27,this scene contains a bird,train
+2,bird,28,this photograph shows a bird,train
+2,bird,29,this image shows a bird,train
+2,bird,30,there is a bird in the image,val
+2,bird,31,there is a bird in the photo,train
+2,bird,32,there is a bird in the scene,val
+2,bird,33,we can see a bird,train
+2,bird,34,one can see a bird,train
+2,bird,35,the photograph features a bird,train
+2,bird,36,the image features a bird,train
+2,bird,37,the picture features a bird,train
+2,bird,38,the scene features a bird,train
+2,bird,39,the object shown is a bird,val
+2,bird,40,a realistic image of a bird,train
+2,bird,41,a natural image of a bird,train
+2,bird,42,a simple image of a bird,train
+2,bird,43,a high-quality photo of a bird,train
+2,bird,44,a photograph containing a bird,train
+2,bird,45,a scene containing a bird,val
+2,bird,46,an everyday view of a bird,train
+2,bird,47,an example of a bird,train
+2,bird,48,a visual example of a bird,val
+2,bird,49,a recognizable bird,train
+3,horse,0,a photo of a horse,train
+3,horse,1,a photograph of a horse,train
+3,horse,2,an image of a horse,train
+3,horse,3,a picture of a horse,train
+3,horse,4,a clear photo of a horse,train
+3,horse,5,a close-up photo of a horse,train
+3,horse,6,a detailed photo of a horse,train
+3,horse,7,a cropped photo of a horse,train
+3,horse,8,a bright photo of a horse,train
+3,horse,9,a dark photo of a horse,train
+3,horse,10,A horse in the scene,train
+3,horse,11,A horse visible in the image,train
+3,horse,12,A horse shown clearly,train
+3,horse,13,A horse in a photograph,val
+3,horse,14,A horse in the picture,train
+3,horse,15,A horse near the center of the image,train
+3,horse,16,A horse viewed from the front,train
+3,horse,17,A horse viewed from the side,val
+3,horse,18,A horse viewed from a distance,train
+3,horse,19,A horse seen nearby,val
+3,horse,20,the image contains a horse,train
+3,horse,21,the photo contains a horse,train
+3,horse,22,the picture contains a horse,train
+3,horse,23,the main object is a horse,train
+3,horse,24,the visible object is a horse,train
+3,horse,25,the central object is a horse,val
+3,horse,26,the scene includes a horse,val
+3,horse,27,this scene contains a horse,train
+3,horse,28,this photograph shows a horse,train
+3,horse,29,this image shows a horse,train
+3,horse,30,there is a horse in the image,val
+3,horse,31,there is a horse in the photo,train
+3,horse,32,there is a horse in the scene,val
+3,horse,33,we can see a horse,train
+3,horse,34,one can see a horse,train
+3,horse,35,the photograph features a horse,train
+3,horse,36,the image features a horse,train
+3,horse,37,the picture features a horse,train
+3,horse,38,the scene features a horse,train
+3,horse,39,the object shown is a horse,val
+3,horse,40,a realistic image of a horse,train
+3,horse,41,a natural image of a horse,train
+3,horse,42,a simple image of a horse,train
+3,horse,43,a high-quality photo of a horse,train
+3,horse,44,a photograph containing a horse,train
+3,horse,45,a scene containing a horse,val
+3,horse,46,an everyday view of a horse,train
+3,horse,47,an example of a horse,train
+3,horse,48,a visual example of a horse,val
+3,horse,49,a recognizable horse,train
+4,elephant,0,a photo of an elephant,train
+4,elephant,1,a photograph of an elephant,train
+4,elephant,2,an image of an elephant,train
+4,elephant,3,a picture of an elephant,train
+4,elephant,4,a clear photo of an elephant,train
+4,elephant,5,a close-up photo of an elephant,train
+4,elephant,6,a detailed photo of an elephant,train
+4,elephant,7,a cropped photo of an elephant,train
+4,elephant,8,a bright photo of an elephant,train
+4,elephant,9,a dark photo of an elephant,train
+4,elephant,10,An elephant in the scene,train
+4,elephant,11,An elephant visible in the image,train
+4,elephant,12,An elephant shown clearly,train
+4,elephant,13,An elephant in a photograph,val
+4,elephant,14,An elephant in the picture,train
+4,elephant,15,An elephant near the center of the image,train
+4,elephant,16,An elephant viewed from the front,train
+4,elephant,17,An elephant viewed from the side,val
+4,elephant,18,An elephant viewed from a distance,train
+4,elephant,19,An elephant seen nearby,val
+4,elephant,20,the image contains an elephant,train
+4,elephant,21,the photo contains an elephant,train
+4,elephant,22,the picture contains an elephant,train
+4,elephant,23,the main object is an elephant,train
+4,elephant,24,the visible object is an elephant,train
+4,elephant,25,the central object is an elephant,val
+4,elephant,26,the scene includes an elephant,val
+4,elephant,27,this scene contains an elephant,train
+4,elephant,28,this photograph shows an elephant,train
+4,elephant,29,this image shows an elephant,train
+4,elephant,30,there is an elephant in the image,val
+4,elephant,31,there is an elephant in the photo,train
+4,elephant,32,there is an elephant in the scene,val
+4,elephant,33,we can see an elephant,train
+4,elephant,34,one can see an elephant,train
+4,elephant,35,the photograph features an elephant,train
+4,elephant,36,the image features an elephant,train
+4,elephant,37,the picture features an elephant,train
+4,elephant,38,the scene features an elephant,train
+4,elephant,39,the object shown is an elephant,val
+4,elephant,40,a realistic image of an elephant,train
+4,elephant,41,a natural image of an elephant,train
+4,elephant,42,a simple image of an elephant,train
+4,elephant,43,a high-quality photo of an elephant,train
+4,elephant,44,a photograph containing an elephant,train
+4,elephant,45,a scene containing an elephant,val
+4,elephant,46,an everyday view of an elephant,train
+4,elephant,47,an example of an elephant,train
+4,elephant,48,a visual example of an elephant,val
+4,elephant,49,a recognizable elephant,train
+5,cow,0,a photo of a cow,train
+5,cow,1,a photograph of a cow,train
+5,cow,2,an image of a cow,train
+5,cow,3,a picture of a cow,train
+5,cow,4,a clear photo of a cow,train
+5,cow,5,a close-up photo of a cow,train
+5,cow,6,a detailed photo of a cow,train
+5,cow,7,a cropped photo of a cow,train
+5,cow,8,a bright photo of a cow,train
+5,cow,9,a dark photo of a cow,train
+5,cow,10,A cow in the scene,train
+5,cow,11,A cow visible in the image,train
+5,cow,12,A cow shown clearly,train
+5,cow,13,A cow in a photograph,val
+5,cow,14,A cow in the picture,train
+5,cow,15,A cow near the center of the image,train
+5,cow,16,A cow viewed from the front,train
+5,cow,17,A cow viewed from the side,val
+5,cow,18,A cow viewed from a distance,train
+5,cow,19,A cow seen nearby,val
+5,cow,20,the image contains a cow,train
+5,cow,21,the photo contains a cow,train
+5,cow,22,the picture contains a cow,train
+5,cow,23,the main object is a cow,train
+5,cow,24,the visible object is a cow,train
+5,cow,25,the central object is a cow,val
+5,cow,26,the scene includes a cow,val
+5,cow,27,this scene contains a cow,train
+5,cow,28,this photograph shows a cow,train
+5,cow,29,this image shows a cow,train
+5,cow,30,there is a cow in the image,val
+5,cow,31,there is a cow in the photo,train
+5,cow,32,there is a cow in the scene,val
+5,cow,33,we can see a cow,train
+5,cow,34,one can see a cow,train
+5,cow,35,the photograph features a cow,train
+5,cow,36,the image features a cow,train
+5,cow,37,the picture features a cow,train
+5,cow,38,the scene features a cow,train
+5,cow,39,the object shown is a cow,val
+5,cow,40,a realistic image of a cow,train
+5,cow,41,a natural image of a cow,train
+5,cow,42,a simple image of a cow,train
+5,cow,43,a high-quality photo of a cow,train
+5,cow,44,a photograph containing a cow,train
+5,cow,45,a scene containing a cow,val
+5,cow,46,an everyday view of a cow,train
+5,cow,47,an example of a cow,train
+5,cow,48,a visual example of a cow,val
+5,cow,49,a recognizable cow,train
+6,sheep,0,a photo of a sheep,train
+6,sheep,1,a photograph of a sheep,train
+6,sheep,2,an image of a sheep,train
+6,sheep,3,a picture of a sheep,train
+6,sheep,4,a clear photo of a sheep,train
+6,sheep,5,a close-up photo of a sheep,train
+6,sheep,6,a detailed photo of a sheep,train
+6,sheep,7,a cropped photo of a sheep,train
+6,sheep,8,a bright photo of a sheep,train
+6,sheep,9,a dark photo of a sheep,train
+6,sheep,10,A sheep in the scene,train
+6,sheep,11,A sheep visible in the image,train
+6,sheep,12,A sheep shown clearly,train
+6,sheep,13,A sheep in a photograph,val
+6,sheep,14,A sheep in the picture,train
+6,sheep,15,A sheep near the center of the image,train
+6,sheep,16,A sheep viewed from the front,train
+6,sheep,17,A sheep viewed from the side,val
+6,sheep,18,A sheep viewed from a distance,train
+6,sheep,19,A sheep seen nearby,val
+6,sheep,20,the image contains a sheep,train
+6,sheep,21,the photo contains a sheep,train
+6,sheep,22,the picture contains a sheep,train
+6,sheep,23,the main object is a sheep,train
+6,sheep,24,the visible object is a sheep,train
+6,sheep,25,the central object is a sheep,val
+6,sheep,26,the scene includes a sheep,val
+6,sheep,27,this scene contains a sheep,train
+6,sheep,28,this photograph shows a sheep,train
+6,sheep,29,this image shows a sheep,train
+6,sheep,30,there is a sheep in the image,val
+6,sheep,31,there is a sheep in the photo,train
+6,sheep,32,there is a sheep in the scene,val
+6,sheep,33,we can see a sheep,train
+6,sheep,34,one can see a sheep,train
+6,sheep,35,the photograph features a sheep,train
+6,sheep,36,the image features a sheep,train
+6,sheep,37,the picture features a sheep,train
+6,sheep,38,the scene features a sheep,train
+6,sheep,39,the object shown is a sheep,val
+6,sheep,40,a realistic image of a sheep,train
+6,sheep,41,a natural image of a sheep,train
+6,sheep,42,a simple image of a sheep,train
+6,sheep,43,a high-quality photo of a sheep,train
+6,sheep,44,a photograph containing a sheep,train
+6,sheep,45,a scene containing a sheep,val
+6,sheep,46,an everyday view of a sheep,train
+6,sheep,47,an example of a sheep,train
+6,sheep,48,a visual example of a sheep,val
+6,sheep,49,a recognizable sheep,train
+7,bear,0,a photo of a bear,train
+7,bear,1,a photograph of a bear,train
+7,bear,2,an image of a bear,train
+7,bear,3,a picture of a bear,train
+7,bear,4,a clear photo of a bear,train
+7,bear,5,a close-up photo of a bear,train
+7,bear,6,a detailed photo of a bear,train
+7,bear,7,a cropped photo of a bear,train
+7,bear,8,a bright photo of a bear,train
+7,bear,9,a dark photo of a bear,train
+7,bear,10,A bear in the scene,train
+7,bear,11,A bear visible in the image,train
+7,bear,12,A bear shown clearly,train
+7,bear,13,A bear in a photograph,val
+7,bear,14,A bear in the picture,train
+7,bear,15,A bear near the center of the image,train
+7,bear,16,A bear viewed from the front,train
+7,bear,17,A bear viewed from the side,val
+7,bear,18,A bear viewed from a distance,train
+7,bear,19,A bear seen nearby,val
+7,bear,20,the image contains a bear,train
+7,bear,21,the photo contains a bear,train
+7,bear,22,the picture contains a bear,train
+7,bear,23,the main object is a bear,train
+7,bear,24,the visible object is a bear,train
+7,bear,25,the central object is a bear,val
+7,bear,26,the scene includes a bear,val
+7,bear,27,this scene contains a bear,train
+7,bear,28,this photograph shows a bear,train
+7,bear,29,this image shows a bear,train
+7,bear,30,there is a bear in the image,val
+7,bear,31,there is a bear in the photo,train
+7,bear,32,there is a bear in the scene,val
+7,bear,33,we can see a bear,train
+7,bear,34,one can see a bear,train
+7,bear,35,the photograph features a bear,train
+7,bear,36,the image features a bear,train
+7,bear,37,the picture features a bear,train
+7,bear,38,the scene features a bear,train
+7,bear,39,the object shown is a bear,val
+7,bear,40,a realistic image of a bear,train
+7,bear,41,a natural image of a bear,train
+7,bear,42,a simple image of a bear,train
+7,bear,43,a high-quality photo of a bear,train
+7,bear,44,a photograph containing a bear,train
+7,bear,45,a scene containing a bear,val
+7,bear,46,an everyday view of a bear,train
+7,bear,47,an example of a bear,train
+7,bear,48,a visual example of a bear,val
+7,bear,49,a recognizable bear,train
+8,zebra,0,a photo of a zebra,train
+8,zebra,1,a photograph of a zebra,train
+8,zebra,2,an image of a zebra,train
+8,zebra,3,a picture of a zebra,train
+8,zebra,4,a clear photo of a zebra,train
+8,zebra,5,a close-up photo of a zebra,train
+8,zebra,6,a detailed photo of a zebra,train
+8,zebra,7,a cropped photo of a zebra,train
+8,zebra,8,a bright photo of a zebra,train
+8,zebra,9,a dark photo of a zebra,train
+8,zebra,10,A zebra in the scene,train
+8,zebra,11,A zebra visible in the image,train
+8,zebra,12,A zebra shown clearly,train
+8,zebra,13,A zebra in a photograph,val
+8,zebra,14,A zebra in the picture,train
+8,zebra,15,A zebra near the center of the image,train
+8,zebra,16,A zebra viewed from the front,train
+8,zebra,17,A zebra viewed from the side,val
+8,zebra,18,A zebra viewed from a distance,train
+8,zebra,19,A zebra seen nearby,val
+8,zebra,20,the image contains a zebra,train
+8,zebra,21,the photo contains a zebra,train
+8,zebra,22,the picture contains a zebra,train
+8,zebra,23,the main object is a zebra,train
+8,zebra,24,the visible object is a zebra,train
+8,zebra,25,the central object is a zebra,val
+8,zebra,26,the scene includes a zebra,val
+8,zebra,27,this scene contains a zebra,train
+8,zebra,28,this photograph shows a zebra,train
+8,zebra,29,this image shows a zebra,train
+8,zebra,30,there is a zebra in the image,val
+8,zebra,31,there is a zebra in the photo,train
+8,zebra,32,there is a zebra in the scene,val
+8,zebra,33,we can see a zebra,train
+8,zebra,34,one can see a zebra,train
+8,zebra,35,the photograph features a zebra,train
+8,zebra,36,the image features a zebra,train
+8,zebra,37,the picture features a zebra,train
+8,zebra,38,the scene features a zebra,train
+8,zebra,39,the object shown is a zebra,val
+8,zebra,40,a realistic image of a zebra,train
+8,zebra,41,a natural image of a zebra,train
+8,zebra,42,a simple image of a zebra,train
+8,zebra,43,a high-quality photo of a zebra,train
+8,zebra,44,a photograph containing a zebra,train
+8,zebra,45,a scene containing a zebra,val
+8,zebra,46,an everyday view of a zebra,train
+8,zebra,47,an example of a zebra,train
+8,zebra,48,a visual example of a zebra,val
+8,zebra,49,a recognizable zebra,train
+9,giraffe,0,a photo of a giraffe,train
+9,giraffe,1,a photograph of a giraffe,train
+9,giraffe,2,an image of a giraffe,train
+9,giraffe,3,a picture of a giraffe,train
+9,giraffe,4,a clear photo of a giraffe,train
+9,giraffe,5,a close-up photo of a giraffe,train
+9,giraffe,6,a detailed photo of a giraffe,train
+9,giraffe,7,a cropped photo of a giraffe,train
+9,giraffe,8,a bright photo of a giraffe,train
+9,giraffe,9,a dark photo of a giraffe,train
+9,giraffe,10,A giraffe in the scene,train
+9,giraffe,11,A giraffe visible in the image,train
+9,giraffe,12,A giraffe shown clearly,train
+9,giraffe,13,A giraffe in a photograph,val
+9,giraffe,14,A giraffe in the picture,train
+9,giraffe,15,A giraffe near the center of the image,train
+9,giraffe,16,A giraffe viewed from the front,train
+9,giraffe,17,A giraffe viewed from the side,val
+9,giraffe,18,A giraffe viewed from a distance,train
+9,giraffe,19,A giraffe seen nearby,val
+9,giraffe,20,the image contains a giraffe,train
+9,giraffe,21,the photo contains a giraffe,train
+9,giraffe,22,the picture contains a giraffe,train
+9,giraffe,23,the main object is a giraffe,train
+9,giraffe,24,the visible object is a giraffe,train
+9,giraffe,25,the central object is a giraffe,val
+9,giraffe,26,the scene includes a giraffe,val
+9,giraffe,27,this scene contains a giraffe,train
+9,giraffe,28,this photograph shows a giraffe,train
+9,giraffe,29,this image shows a giraffe,train
+9,giraffe,30,there is a giraffe in the image,val
+9,giraffe,31,there is a giraffe in the photo,train
+9,giraffe,32,there is a giraffe in the scene,val
+9,giraffe,33,we can see a giraffe,train
+9,giraffe,34,one can see a giraffe,train
+9,giraffe,35,the photograph features a giraffe,train
+9,giraffe,36,the image features a giraffe,train
+9,giraffe,37,the picture features a giraffe,train
+9,giraffe,38,the scene features a giraffe,train
+9,giraffe,39,the object shown is a giraffe,val
+9,giraffe,40,a realistic image of a giraffe,train
+9,giraffe,41,a natural image of a giraffe,train
+9,giraffe,42,a simple image of a giraffe,train
+9,giraffe,43,a high-quality photo of a giraffe,train
+9,giraffe,44,a photograph containing a giraffe,train
+9,giraffe,45,a scene containing a giraffe,val
+9,giraffe,46,an everyday view of a giraffe,train
+9,giraffe,47,an example of a giraffe,train
+9,giraffe,48,a visual example of a giraffe,val
+9,giraffe,49,a recognizable giraffe,train
+10,car,0,a photo of a car,train
+10,car,1,a photograph of a car,train
+10,car,2,an image of a car,train
+10,car,3,a picture of a car,train
+10,car,4,a clear photo of a car,train
+10,car,5,a close-up photo of a car,train
+10,car,6,a detailed photo of a car,train
+10,car,7,a cropped photo of a car,train
+10,car,8,a bright photo of a car,train
+10,car,9,a dark photo of a car,train
+10,car,10,A car in the scene,train
+10,car,11,A car visible in the image,train
+10,car,12,A car shown clearly,train
+10,car,13,A car in a photograph,val
+10,car,14,A car in the picture,train
+10,car,15,A car near the center of the image,train
+10,car,16,A car viewed from the front,train
+10,car,17,A car viewed from the side,val
+10,car,18,A car viewed from a distance,train
+10,car,19,A car seen nearby,val
+10,car,20,the image contains a car,train
+10,car,21,the photo contains a car,train
+10,car,22,the picture contains a car,train
+10,car,23,the main object is a car,train
+10,car,24,the visible object is a car,train
+10,car,25,the central object is a car,val
+10,car,26,the scene includes a car,val
+10,car,27,this scene contains a car,train
+10,car,28,this photograph shows a car,train
+10,car,29,this image shows a car,train
+10,car,30,there is a car in the image,val
+10,car,31,there is a car in the photo,train
+10,car,32,there is a car in the scene,val
+10,car,33,we can see a car,train
+10,car,34,one can see a car,train
+10,car,35,the photograph features a car,train
+10,car,36,the image features a car,train
+10,car,37,the picture features a car,train
+10,car,38,the scene features a car,train
+10,car,39,the object shown is a car,val
+10,car,40,a realistic image of a car,train
+10,car,41,a natural image of a car,train
+10,car,42,a simple image of a car,train
+10,car,43,a high-quality photo of a car,train
+10,car,44,a photograph containing a car,train
+10,car,45,a scene containing a car,val
+10,car,46,an everyday view of a car,train
+10,car,47,an example of a car,train
+10,car,48,a visual example of a car,val
+10,car,49,a recognizable car,train
+11,bus,0,a photo of a bus,train
+11,bus,1,a photograph of a bus,train
+11,bus,2,an image of a bus,train
+11,bus,3,a picture of a bus,train
+11,bus,4,a clear photo of a bus,train
+11,bus,5,a close-up photo of a bus,train
+11,bus,6,a detailed photo of a bus,train
+11,bus,7,a cropped photo of a bus,train
+11,bus,8,a bright photo of a bus,train
+11,bus,9,a dark photo of a bus,train
+11,bus,10,A bus in the scene,train
+11,bus,11,A bus visible in the image,train
+11,bus,12,A bus shown clearly,train
+11,bus,13,A bus in a photograph,val
+11,bus,14,A bus in the picture,train
+11,bus,15,A bus near the center of the image,train
+11,bus,16,A bus viewed from the front,train
+11,bus,17,A bus viewed from the side,val
+11,bus,18,A bus viewed from a distance,train
+11,bus,19,A bus seen nearby,val
+11,bus,20,the image contains a bus,train
+11,bus,21,the photo contains a bus,train
+11,bus,22,the picture contains a bus,train
+11,bus,23,the main object is a bus,train
+11,bus,24,the visible object is a bus,train
+11,bus,25,the central object is a bus,val
+11,bus,26,the scene includes a bus,val
+11,bus,27,this scene contains a bus,train
+11,bus,28,this photograph shows a bus,train
+11,bus,29,this image shows a bus,train
+11,bus,30,there is a bus in the image,val
+11,bus,31,there is a bus in the photo,train
+11,bus,32,there is a bus in the scene,val
+11,bus,33,we can see a bus,train
+11,bus,34,one can see a bus,train
+11,bus,35,the photograph features a bus,train
+11,bus,36,the image features a bus,train
+11,bus,37,the picture features a bus,train
+11,bus,38,the scene features a bus,train
+11,bus,39,the object shown is a bus,val
+11,bus,40,a realistic image of a bus,train
+11,bus,41,a natural image of a bus,train
+11,bus,42,a simple image of a bus,train
+11,bus,43,a high-quality photo of a bus,train
+11,bus,44,a photograph containing a bus,train
+11,bus,45,a scene containing a bus,val
+11,bus,46,an everyday view of a bus,train
+11,bus,47,an example of a bus,train
+11,bus,48,a visual example of a bus,val
+11,bus,49,a recognizable bus,train
+12,truck,0,a photo of a truck,train
+12,truck,1,a photograph of a truck,train
+12,truck,2,an image of a truck,train
+12,truck,3,a picture of a truck,train
+12,truck,4,a clear photo of a truck,train
+12,truck,5,a close-up photo of a truck,train
+12,truck,6,a detailed photo of a truck,train
+12,truck,7,a cropped photo of a truck,train
+12,truck,8,a bright photo of a truck,train
+12,truck,9,a dark photo of a truck,train
+12,truck,10,A truck in the scene,train
+12,truck,11,A truck visible in the image,train
+12,truck,12,A truck shown clearly,train
+12,truck,13,A truck in a photograph,val
+12,truck,14,A truck in the picture,train
+12,truck,15,A truck near the center of the image,train
+12,truck,16,A truck viewed from the front,train
+12,truck,17,A truck viewed from the side,val
+12,truck,18,A truck viewed from a distance,train
+12,truck,19,A truck seen nearby,val
+12,truck,20,the image contains a truck,train
+12,truck,21,the photo contains a truck,train
+12,truck,22,the picture contains a truck,train
+12,truck,23,the main object is a truck,train
+12,truck,24,the visible object is a truck,train
+12,truck,25,the central object is a truck,val
+12,truck,26,the scene includes a truck,val
+12,truck,27,this scene contains a truck,train
+12,truck,28,this photograph shows a truck,train
+12,truck,29,this image shows a truck,train
+12,truck,30,there is a truck in the image,val
+12,truck,31,there is a truck in the photo,train
+12,truck,32,there is a truck in the scene,val
+12,truck,33,we can see a truck,train
+12,truck,34,one can see a truck,train
+12,truck,35,the photograph features a truck,train
+12,truck,36,the image features a truck,train
+12,truck,37,the picture features a truck,train
+12,truck,38,the scene features a truck,train
+12,truck,39,the object shown is a truck,val
+12,truck,40,a realistic image of a truck,train
+12,truck,41,a natural image of a truck,train
+12,truck,42,a simple image of a truck,train
+12,truck,43,a high-quality photo of a truck,train
+12,truck,44,a photograph containing a truck,train
+12,truck,45,a scene containing a truck,val
+12,truck,46,an everyday view of a truck,train
+12,truck,47,an example of a truck,train
+12,truck,48,a visual example of a truck,val
+12,truck,49,a recognizable truck,train
+13,bicycle,0,a photo of a bicycle,train
+13,bicycle,1,a photograph of a bicycle,train
+13,bicycle,2,an image of a bicycle,train
+13,bicycle,3,a picture of a bicycle,train
+13,bicycle,4,a clear photo of a bicycle,train
+13,bicycle,5,a close-up photo of a bicycle,train
+13,bicycle,6,a detailed photo of a bicycle,train
+13,bicycle,7,a cropped photo of a bicycle,train
+13,bicycle,8,a bright photo of a bicycle,train
+13,bicycle,9,a dark photo of a bicycle,train
+13,bicycle,10,A bicycle in the scene,train
+13,bicycle,11,A bicycle visible in the image,train
+13,bicycle,12,A bicycle shown clearly,train
+13,bicycle,13,A bicycle in a photograph,val
+13,bicycle,14,A bicycle in the picture,train
+13,bicycle,15,A bicycle near the center of the image,train
+13,bicycle,16,A bicycle viewed from the front,train
+13,bicycle,17,A bicycle viewed from the side,val
+13,bicycle,18,A bicycle viewed from a distance,train
+13,bicycle,19,A bicycle seen nearby,val
+13,bicycle,20,the image contains a bicycle,train
+13,bicycle,21,the photo contains a bicycle,train
+13,bicycle,22,the picture contains a bicycle,train
+13,bicycle,23,the main object is a bicycle,train
+13,bicycle,24,the visible object is a bicycle,train
+13,bicycle,25,the central object is a bicycle,val
+13,bicycle,26,the scene includes a bicycle,val
+13,bicycle,27,this scene contains a bicycle,train
+13,bicycle,28,this photograph shows a bicycle,train
+13,bicycle,29,this image shows a bicycle,train
+13,bicycle,30,there is a bicycle in the image,val
+13,bicycle,31,there is a bicycle in the photo,train
+13,bicycle,32,there is a bicycle in the scene,val
+13,bicycle,33,we can see a bicycle,train
+13,bicycle,34,one can see a bicycle,train
+13,bicycle,35,the photograph features a bicycle,train
+13,bicycle,36,the image features a bicycle,train
+13,bicycle,37,the picture features a bicycle,train
+13,bicycle,38,the scene features a bicycle,train
+13,bicycle,39,the object shown is a bicycle,val
+13,bicycle,40,a realistic image of a bicycle,train
+13,bicycle,41,a natural image of a bicycle,train
+13,bicycle,42,a simple image of a bicycle,train
+13,bicycle,43,a high-quality photo of a bicycle,train
+13,bicycle,44,a photograph containing a bicycle,train
+13,bicycle,45,a scene containing a bicycle,val
+13,bicycle,46,an everyday view of a bicycle,train
+13,bicycle,47,an example of a bicycle,train
+13,bicycle,48,a visual example of a bicycle,val
+13,bicycle,49,a recognizable bicycle,train
+14,motorcycle,0,a photo of a motorcycle,train
+14,motorcycle,1,a photograph of a motorcycle,train
+14,motorcycle,2,an image of a motorcycle,train
+14,motorcycle,3,a picture of a motorcycle,train
+14,motorcycle,4,a clear photo of a motorcycle,train
+14,motorcycle,5,a close-up photo of a motorcycle,train
+14,motorcycle,6,a detailed photo of a motorcycle,train
+14,motorcycle,7,a cropped photo of a motorcycle,train
+14,motorcycle,8,a bright photo of a motorcycle,train
+14,motorcycle,9,a dark photo of a motorcycle,train
+14,motorcycle,10,A motorcycle in the scene,train
+14,motorcycle,11,A motorcycle visible in the image,train
+14,motorcycle,12,A motorcycle shown clearly,train
+14,motorcycle,13,A motorcycle in a photograph,val
+14,motorcycle,14,A motorcycle in the picture,train
+14,motorcycle,15,A motorcycle near the center of the image,train
+14,motorcycle,16,A motorcycle viewed from the front,train
+14,motorcycle,17,A motorcycle viewed from the side,val
+14,motorcycle,18,A motorcycle viewed from a distance,train
+14,motorcycle,19,A motorcycle seen nearby,val
+14,motorcycle,20,the image contains a motorcycle,train
+14,motorcycle,21,the photo contains a motorcycle,train
+14,motorcycle,22,the picture contains a motorcycle,train
+14,motorcycle,23,the main object is a motorcycle,train
+14,motorcycle,24,the visible object is a motorcycle,train
+14,motorcycle,25,the central object is a motorcycle,val
+14,motorcycle,26,the scene includes a motorcycle,val
+14,motorcycle,27,this scene contains a motorcycle,train
+14,motorcycle,28,this photograph shows a motorcycle,train
+14,motorcycle,29,this image shows a motorcycle,train
+14,motorcycle,30,there is a motorcycle in the image,val
+14,motorcycle,31,there is a motorcycle in the photo,train
+14,motorcycle,32,there is a motorcycle in the scene,val
+14,motorcycle,33,we can see a motorcycle,train
+14,motorcycle,34,one can see a motorcycle,train
+14,motorcycle,35,the photograph features a motorcycle,train
+14,motorcycle,36,the image features a motorcycle,train
+14,motorcycle,37,the picture features a motorcycle,train
+14,motorcycle,38,the scene features a motorcycle,train
+14,motorcycle,39,the object shown is a motorcycle,val
+14,motorcycle,40,a realistic image of a motorcycle,train
+14,motorcycle,41,a natural image of a motorcycle,train
+14,motorcycle,42,a simple image of a motorcycle,train
+14,motorcycle,43,a high-quality photo of a motorcycle,train
+14,motorcycle,44,a photograph containing a motorcycle,train
+14,motorcycle,45,a scene containing a motorcycle,val
+14,motorcycle,46,an everyday view of a motorcycle,train
+14,motorcycle,47,an example of a motorcycle,train
+14,motorcycle,48,a visual example of a motorcycle,val
+14,motorcycle,49,a recognizable motorcycle,train
+15,airplane,0,a photo of an airplane,train
+15,airplane,1,a photograph of an airplane,train
+15,airplane,2,an image of an airplane,train
+15,airplane,3,a picture of an airplane,train
+15,airplane,4,a clear photo of an airplane,train
+15,airplane,5,a close-up photo of an airplane,train
+15,airplane,6,a detailed photo of an airplane,train
+15,airplane,7,a cropped photo of an airplane,train
+15,airplane,8,a bright photo of an airplane,train
+15,airplane,9,a dark photo of an airplane,train
+15,airplane,10,An airplane in the scene,train
+15,airplane,11,An airplane visible in the image,train
+15,airplane,12,An airplane shown clearly,train
+15,airplane,13,An airplane in a photograph,val
+15,airplane,14,An airplane in the picture,train
+15,airplane,15,An airplane near the center of the image,train
+15,airplane,16,An airplane viewed from the front,train
+15,airplane,17,An airplane viewed from the side,val
+15,airplane,18,An airplane viewed from a distance,train
+15,airplane,19,An airplane seen nearby,val
+15,airplane,20,the image contains an airplane,train
+15,airplane,21,the photo contains an airplane,train
+15,airplane,22,the picture contains an airplane,train
+15,airplane,23,the main object is an airplane,train
+15,airplane,24,the visible object is an airplane,train
+15,airplane,25,the central object is an airplane,val
+15,airplane,26,the scene includes an airplane,val
+15,airplane,27,this scene contains an airplane,train
+15,airplane,28,this photograph shows an airplane,train
+15,airplane,29,this image shows an airplane,train
+15,airplane,30,there is an airplane in the image,val
+15,airplane,31,there is an airplane in the photo,train
+15,airplane,32,there is an airplane in the scene,val
+15,airplane,33,we can see an airplane,train
+15,airplane,34,one can see an airplane,train
+15,airplane,35,the photograph features an airplane,train
+15,airplane,36,the image features an airplane,train
+15,airplane,37,the picture features an airplane,train
+15,airplane,38,the scene features an airplane,train
+15,airplane,39,the object shown is an airplane,val
+15,airplane,40,a realistic image of an airplane,train
+15,airplane,41,a natural image of an airplane,train
+15,airplane,42,a simple image of an airplane,train
+15,airplane,43,a high-quality photo of an airplane,train
+15,airplane,44,a photograph containing an airplane,train
+15,airplane,45,a scene containing an airplane,val
+15,airplane,46,an everyday view of an airplane,train
+15,airplane,47,an example of an airplane,train
+15,airplane,48,a visual example of an airplane,val
+15,airplane,49,a recognizable airplane,train
+16,helicopter,0,a photo of a helicopter,train
+16,helicopter,1,a photograph of a helicopter,train
+16,helicopter,2,an image of a helicopter,train
+16,helicopter,3,a picture of a helicopter,train
+16,helicopter,4,a clear photo of a helicopter,train
+16,helicopter,5,a close-up photo of a helicopter,train
+16,helicopter,6,a detailed photo of a helicopter,train
+16,helicopter,7,a cropped photo of a helicopter,train
+16,helicopter,8,a bright photo of a helicopter,train
+16,helicopter,9,a dark photo of a helicopter,train
+16,helicopter,10,A helicopter in the scene,train
+16,helicopter,11,A helicopter visible in the image,train
+16,helicopter,12,A helicopter shown clearly,train
+16,helicopter,13,A helicopter in a photograph,val
+16,helicopter,14,A helicopter in the picture,train
+16,helicopter,15,A helicopter near the center of the image,train
+16,helicopter,16,A helicopter viewed from the front,train
+16,helicopter,17,A helicopter viewed from the side,val
+16,helicopter,18,A helicopter viewed from a distance,train
+16,helicopter,19,A helicopter seen nearby,val
+16,helicopter,20,the image contains a helicopter,train
+16,helicopter,21,the photo contains a helicopter,train
+16,helicopter,22,the picture contains a helicopter,train
+16,helicopter,23,the main object is a helicopter,train
+16,helicopter,24,the visible object is a helicopter,train
+16,helicopter,25,the central object is a helicopter,val
+16,helicopter,26,the scene includes a helicopter,val
+16,helicopter,27,this scene contains a helicopter,train
+16,helicopter,28,this photograph shows a helicopter,train
+16,helicopter,29,this image shows a helicopter,train
+16,helicopter,30,there is a helicopter in the image,val
+16,helicopter,31,there is a helicopter in the photo,train
+16,helicopter,32,there is a helicopter in the scene,val
+16,helicopter,33,we can see a helicopter,train
+16,helicopter,34,one can see a helicopter,train
+16,helicopter,35,the photograph features a helicopter,train
+16,helicopter,36,the image features a helicopter,train
+16,helicopter,37,the picture features a helicopter,train
+16,helicopter,38,the scene features a helicopter,train
+16,helicopter,39,the object shown is a helicopter,val
+16,helicopter,40,a realistic image of a helicopter,train
+16,helicopter,41,a natural image of a helicopter,train
+16,helicopter,42,a simple image of a helicopter,train
+16,helicopter,43,a high-quality photo of a helicopter,train
+16,helicopter,44,a photograph containing a helicopter,train
+16,helicopter,45,a scene containing a helicopter,val
+16,helicopter,46,an everyday view of a helicopter,train
+16,helicopter,47,an example of a helicopter,train
+16,helicopter,48,a visual example of a helicopter,val
+16,helicopter,49,a recognizable helicopter,train
+17,boat,0,a photo of a boat,train
+17,boat,1,a photograph of a boat,train
+17,boat,2,an image of a boat,train
+17,boat,3,a picture of a boat,train
+17,boat,4,a clear photo of a boat,train
+17,boat,5,a close-up photo of a boat,train
+17,boat,6,a detailed photo of a boat,train
+17,boat,7,a cropped photo of a boat,train
+17,boat,8,a bright photo of a boat,train
+17,boat,9,a dark photo of a boat,train
+17,boat,10,A boat in the scene,train
+17,boat,11,A boat visible in the image,train
+17,boat,12,A boat shown clearly,train
+17,boat,13,A boat in a photograph,val
+17,boat,14,A boat in the picture,train
+17,boat,15,A boat near the center of the image,train
+17,boat,16,A boat viewed from the front,train
+17,boat,17,A boat viewed from the side,val
+17,boat,18,A boat viewed from a distance,train
+17,boat,19,A boat seen nearby,val
+17,boat,20,the image contains a boat,train
+17,boat,21,the photo contains a boat,train
+17,boat,22,the picture contains a boat,train
+17,boat,23,the main object is a boat,train
+17,boat,24,the visible object is a boat,train
+17,boat,25,the central object is a boat,val
+17,boat,26,the scene includes a boat,val
+17,boat,27,this scene contains a boat,train
+17,boat,28,this photograph shows a boat,train
+17,boat,29,this image shows a boat,train
+17,boat,30,there is a boat in the image,val
+17,boat,31,there is a boat in the photo,train
+17,boat,32,there is a boat in the scene,val
+17,boat,33,we can see a boat,train
+17,boat,34,one can see a boat,train
+17,boat,35,the photograph features a boat,train
+17,boat,36,the image features a boat,train
+17,boat,37,the picture features a boat,train
+17,boat,38,the scene features a boat,train
+17,boat,39,the object shown is a boat,val
+17,boat,40,a realistic image of a boat,train
+17,boat,41,a natural image of a boat,train
+17,boat,42,a simple image of a boat,train
+17,boat,43,a high-quality photo of a boat,train
+17,boat,44,a photograph containing a boat,train
+17,boat,45,a scene containing a boat,val
+17,boat,46,an everyday view of a boat,train
+17,boat,47,an example of a boat,train
+17,boat,48,a visual example of a boat,val
+17,boat,49,a recognizable boat,train
+18,train,0,a photo of a train,train
+18,train,1,a photograph of a train,train
+18,train,2,an image of a train,train
+18,train,3,a picture of a train,train
+18,train,4,a clear photo of a train,train
+18,train,5,a close-up photo of a train,train
+18,train,6,a detailed photo of a train,train
+18,train,7,a cropped photo of a train,train
+18,train,8,a bright photo of a train,train
+18,train,9,a dark photo of a train,train
+18,train,10,A train in the scene,train
+18,train,11,A train visible in the image,train
+18,train,12,A train shown clearly,train
+18,train,13,A train in a photograph,val
+18,train,14,A train in the picture,train
+18,train,15,A train near the center of the image,train
+18,train,16,A train viewed from the front,train
+18,train,17,A train viewed from the side,val
+18,train,18,A train viewed from a distance,train
+18,train,19,A train seen nearby,val
+18,train,20,the image contains a train,train
+18,train,21,the photo contains a train,train
+18,train,22,the picture contains a train,train
+18,train,23,the main object is a train,train
+18,train,24,the visible object is a train,train
+18,train,25,the central object is a train,val
+18,train,26,the scene includes a train,val
+18,train,27,this scene contains a train,train
+18,train,28,this photograph shows a train,train
+18,train,29,this image shows a train,train
+18,train,30,there is a train in the image,val
+18,train,31,there is a train in the photo,train
+18,train,32,there is a train in the scene,val
+18,train,33,we can see a train,train
+18,train,34,one can see a train,train
+18,train,35,the photograph features a train,train
+18,train,36,the image features a train,train
+18,train,37,the picture features a train,train
+18,train,38,the scene features a train,train
+18,train,39,the object shown is a train,val
+18,train,40,a realistic image of a train,train
+18,train,41,a natural image of a train,train
+18,train,42,a simple image of a train,train
+18,train,43,a high-quality photo of a train,train
+18,train,44,a photograph containing a train,train
+18,train,45,a scene containing a train,val
+18,train,46,an everyday view of a train,train
+18,train,47,an example of a train,train
+18,train,48,a visual example of a train,val
+18,train,49,a recognizable train,train
+19,sports car,0,a photo of a sports car,train
+19,sports car,1,a photograph of a sports car,train
+19,sports car,2,an image of a sports car,train
+19,sports car,3,a picture of a sports car,train
+19,sports car,4,a clear photo of a sports car,train
+19,sports car,5,a close-up photo of a sports car,train
+19,sports car,6,a detailed photo of a sports car,train
+19,sports car,7,a cropped photo of a sports car,train
+19,sports car,8,a bright photo of a sports car,train
+19,sports car,9,a dark photo of a sports car,train
+19,sports car,10,A sports car in the scene,train
+19,sports car,11,A sports car visible in the image,train
+19,sports car,12,A sports car shown clearly,train
+19,sports car,13,A sports car in a photograph,val
+19,sports car,14,A sports car in the picture,train
+19,sports car,15,A sports car near the center of the image,train
+19,sports car,16,A sports car viewed from the front,train
+19,sports car,17,A sports car viewed from the side,val
+19,sports car,18,A sports car viewed from a distance,train
+19,sports car,19,A sports car seen nearby,val
+19,sports car,20,the image contains a sports car,train
+19,sports car,21,the photo contains a sports car,train
+19,sports car,22,the picture contains a sports car,train
+19,sports car,23,the main object is a sports car,train
+19,sports car,24,the visible object is a sports car,train
+19,sports car,25,the central object is a sports car,val
+19,sports car,26,the scene includes a sports car,val
+19,sports car,27,this scene contains a sports car,train
+19,sports car,28,this photograph shows a sports car,train
+19,sports car,29,this image shows a sports car,train
+19,sports car,30,there is a sports car in the image,val
+19,sports car,31,there is a sports car in the photo,train
+19,sports car,32,there is a sports car in the scene,val
+19,sports car,33,we can see a sports car,train
+19,sports car,34,one can see a sports car,train
+19,sports car,35,the photograph features a sports car,train
+19,sports car,36,the image features a sports car,train
+19,sports car,37,the picture features a sports car,train
+19,sports car,38,the scene features a sports car,train
+19,sports car,39,the object shown is a sports car,val
+19,sports car,40,a realistic image of a sports car,train
+19,sports car,41,a natural image of a sports car,train
+19,sports car,42,a simple image of a sports car,train
+19,sports car,43,a high-quality photo of a sports car,train
+19,sports car,44,a photograph containing a sports car,train
+19,sports car,45,a scene containing a sports car,val
+19,sports car,46,an everyday view of a sports car,train
+19,sports car,47,an example of a sports car,train
+19,sports car,48,a visual example of a sports car,val
+19,sports car,49,a recognizable sports car,train
+20,chair,0,a photo of a chair,train
+20,chair,1,a photograph of a chair,train
+20,chair,2,an image of a chair,train
+20,chair,3,a picture of a chair,train
+20,chair,4,a clear photo of a chair,train
+20,chair,5,a close-up photo of a chair,train
+20,chair,6,a detailed photo of a chair,train
+20,chair,7,a cropped photo of a chair,train
+20,chair,8,a bright photo of a chair,train
+20,chair,9,a dark photo of a chair,train
+20,chair,10,A chair in the scene,train
+20,chair,11,A chair visible in the image,train
+20,chair,12,A chair shown clearly,train
+20,chair,13,A chair in a photograph,val
+20,chair,14,A chair in the picture,train
+20,chair,15,A chair near the center of the image,train
+20,chair,16,A chair viewed from the front,train
+20,chair,17,A chair viewed from the side,val
+20,chair,18,A chair viewed from a distance,train
+20,chair,19,A chair seen nearby,val
+20,chair,20,the image contains a chair,train
+20,chair,21,the photo contains a chair,train
+20,chair,22,the picture contains a chair,train
+20,chair,23,the main object is a chair,train
+20,chair,24,the visible object is a chair,train
+20,chair,25,the central object is a chair,val
+20,chair,26,the scene includes a chair,val
+20,chair,27,this scene contains a chair,train
+20,chair,28,this photograph shows a chair,train
+20,chair,29,this image shows a chair,train
+20,chair,30,there is a chair in the image,val
+20,chair,31,there is a chair in the photo,train
+20,chair,32,there is a chair in the scene,val
+20,chair,33,we can see a chair,train
+20,chair,34,one can see a chair,train
+20,chair,35,the photograph features a chair,train
+20,chair,36,the image features a chair,train
+20,chair,37,the picture features a chair,train
+20,chair,38,the scene features a chair,train
+20,chair,39,the object shown is a chair,val
+20,chair,40,a realistic image of a chair,train
+20,chair,41,a natural image of a chair,train
+20,chair,42,a simple image of a chair,train
+20,chair,43,a high-quality photo of a chair,train
+20,chair,44,a photograph containing a chair,train
+20,chair,45,a scene containing a chair,val
+20,chair,46,an everyday view of a chair,train
+20,chair,47,an example of a chair,train
+20,chair,48,a visual example of a chair,val
+20,chair,49,a recognizable chair,train
+21,table,0,a photo of a table,train
+21,table,1,a photograph of a table,train
+21,table,2,an image of a table,train
+21,table,3,a picture of a table,train
+21,table,4,a clear photo of a table,train
+21,table,5,a close-up photo of a table,train
+21,table,6,a detailed photo of a table,train
+21,table,7,a cropped photo of a table,train
+21,table,8,a bright photo of a table,train
+21,table,9,a dark photo of a table,train
+21,table,10,A table in the scene,train
+21,table,11,A table visible in the image,train
+21,table,12,A table shown clearly,train
+21,table,13,A table in a photograph,val
+21,table,14,A table in the picture,train
+21,table,15,A table near the center of the image,train
+21,table,16,A table viewed from the front,train
+21,table,17,A table viewed from the side,val
+21,table,18,A table viewed from a distance,train
+21,table,19,A table seen nearby,val
+21,table,20,the image contains a table,train
+21,table,21,the photo contains a table,train
+21,table,22,the picture contains a table,train
+21,table,23,the main object is a table,train
+21,table,24,the visible object is a table,train
+21,table,25,the central object is a table,val
+21,table,26,the scene includes a table,val
+21,table,27,this scene contains a table,train
+21,table,28,this photograph shows a table,train
+21,table,29,this image shows a table,train
+21,table,30,there is a table in the image,val
+21,table,31,there is a table in the photo,train
+21,table,32,there is a table in the scene,val
+21,table,33,we can see a table,train
+21,table,34,one can see a table,train
+21,table,35,the photograph features a table,train
+21,table,36,the image features a table,train
+21,table,37,the picture features a table,train
+21,table,38,the scene features a table,train
+21,table,39,the object shown is a table,val
+21,table,40,a realistic image of a table,train
+21,table,41,a natural image of a table,train
+21,table,42,a simple image of a table,train
+21,table,43,a high-quality photo of a table,train
+21,table,44,a photograph containing a table,train
+21,table,45,a scene containing a table,val
+21,table,46,an everyday view of a table,train
+21,table,47,an example of a table,train
+21,table,48,a visual example of a table,val
+21,table,49,a recognizable table,train
+22,bed,0,a photo of a bed,train
+22,bed,1,a photograph of a bed,train
+22,bed,2,an image of a bed,train
+22,bed,3,a picture of a bed,train
+22,bed,4,a clear photo of a bed,train
+22,bed,5,a close-up photo of a bed,train
+22,bed,6,a detailed photo of a bed,train
+22,bed,7,a cropped photo of a bed,train
+22,bed,8,a bright photo of a bed,train
+22,bed,9,a dark photo of a bed,train
+22,bed,10,A bed in the scene,train
+22,bed,11,A bed visible in the image,train
+22,bed,12,A bed shown clearly,train
+22,bed,13,A bed in a photograph,val
+22,bed,14,A bed in the picture,train
+22,bed,15,A bed near the center of the image,train
+22,bed,16,A bed viewed from the front,train
+22,bed,17,A bed viewed from the side,val
+22,bed,18,A bed viewed from a distance,train
+22,bed,19,A bed seen nearby,val
+22,bed,20,the image contains a bed,train
+22,bed,21,the photo contains a bed,train
+22,bed,22,the picture contains a bed,train
+22,bed,23,the main object is a bed,train
+22,bed,24,the visible object is a bed,train
+22,bed,25,the central object is a bed,val
+22,bed,26,the scene includes a bed,val
+22,bed,27,this scene contains a bed,train
+22,bed,28,this photograph shows a bed,train
+22,bed,29,this image shows a bed,train
+22,bed,30,there is a bed in the image,val
+22,bed,31,there is a bed in the photo,train
+22,bed,32,there is a bed in the scene,val
+22,bed,33,we can see a bed,train
+22,bed,34,one can see a bed,train
+22,bed,35,the photograph features a bed,train
+22,bed,36,the image features a bed,train
+22,bed,37,the picture features a bed,train
+22,bed,38,the scene features a bed,train
+22,bed,39,the object shown is a bed,val
+22,bed,40,a realistic image of a bed,train
+22,bed,41,a natural image of a bed,train
+22,bed,42,a simple image of a bed,train
+22,bed,43,a high-quality photo of a bed,train
+22,bed,44,a photograph containing a bed,train
+22,bed,45,a scene containing a bed,val
+22,bed,46,an everyday view of a bed,train
+22,bed,47,an example of a bed,train
+22,bed,48,a visual example of a bed,val
+22,bed,49,a recognizable bed,train
+23,sofa,0,a photo of a sofa,train
+23,sofa,1,a photograph of a sofa,train
+23,sofa,2,an image of a sofa,train
+23,sofa,3,a picture of a sofa,train
+23,sofa,4,a clear photo of a sofa,train
+23,sofa,5,a close-up photo of a sofa,train
+23,sofa,6,a detailed photo of a sofa,train
+23,sofa,7,a cropped photo of a sofa,train
+23,sofa,8,a bright photo of a sofa,train
+23,sofa,9,a dark photo of a sofa,train
+23,sofa,10,A sofa in the scene,train
+23,sofa,11,A sofa visible in the image,train
+23,sofa,12,A sofa shown clearly,train
+23,sofa,13,A sofa in a photograph,val
+23,sofa,14,A sofa in the picture,train
+23,sofa,15,A sofa near the center of the image,train
+23,sofa,16,A sofa viewed from the front,train
+23,sofa,17,A sofa viewed from the side,val
+23,sofa,18,A sofa viewed from a distance,train
+23,sofa,19,A sofa seen nearby,val
+23,sofa,20,the image contains a sofa,train
+23,sofa,21,the photo contains a sofa,train
+23,sofa,22,the picture contains a sofa,train
+23,sofa,23,the main object is a sofa,train
+23,sofa,24,the visible object is a sofa,train
+23,sofa,25,the central object is a sofa,val
+23,sofa,26,the scene includes a sofa,val
+23,sofa,27,this scene contains a sofa,train
+23,sofa,28,this photograph shows a sofa,train
+23,sofa,29,this image shows a sofa,train
+23,sofa,30,there is a sofa in the image,val
+23,sofa,31,there is a sofa in the photo,train
+23,sofa,32,there is a sofa in the scene,val
+23,sofa,33,we can see a sofa,train
+23,sofa,34,one can see a sofa,train
+23,sofa,35,the photograph features a sofa,train
+23,sofa,36,the image features a sofa,train
+23,sofa,37,the picture features a sofa,train
+23,sofa,38,the scene features a sofa,train
+23,sofa,39,the object shown is a sofa,val
+23,sofa,40,a realistic image of a sofa,train
+23,sofa,41,a natural image of a sofa,train
+23,sofa,42,a simple image of a sofa,train
+23,sofa,43,a high-quality photo of a sofa,train
+23,sofa,44,a photograph containing a sofa,train
+23,sofa,45,a scene containing a sofa,val
+23,sofa,46,an everyday view of a sofa,train
+23,sofa,47,an example of a sofa,train
+23,sofa,48,a visual example of a sofa,val
+23,sofa,49,a recognizable sofa,train
+24,bottle,0,a photo of a bottle,train
+24,bottle,1,a photograph of a bottle,train
+24,bottle,2,an image of a bottle,train
+24,bottle,3,a picture of a bottle,train
+24,bottle,4,a clear photo of a bottle,train
+24,bottle,5,a close-up photo of a bottle,train
+24,bottle,6,a detailed photo of a bottle,train
+24,bottle,7,a cropped photo of a bottle,train
+24,bottle,8,a bright photo of a bottle,train
+24,bottle,9,a dark photo of a bottle,train
+24,bottle,10,A bottle in the scene,train
+24,bottle,11,A bottle visible in the image,train
+24,bottle,12,A bottle shown clearly,train
+24,bottle,13,A bottle in a photograph,val
+24,bottle,14,A bottle in the picture,train
+24,bottle,15,A bottle near the center of the image,train
+24,bottle,16,A bottle viewed from the front,train
+24,bottle,17,A bottle viewed from the side,val
+24,bottle,18,A bottle viewed from a distance,train
+24,bottle,19,A bottle seen nearby,val
+24,bottle,20,the image contains a bottle,train
+24,bottle,21,the photo contains a bottle,train
+24,bottle,22,the picture contains a bottle,train
+24,bottle,23,the main object is a bottle,train
+24,bottle,24,the visible object is a bottle,train
+24,bottle,25,the central object is a bottle,val
+24,bottle,26,the scene includes a bottle,val
+24,bottle,27,this scene contains a bottle,train
+24,bottle,28,this photograph shows a bottle,train
+24,bottle,29,this image shows a bottle,train
+24,bottle,30,there is a bottle in the image,val
+24,bottle,31,there is a bottle in the photo,train
+24,bottle,32,there is a bottle in the scene,val
+24,bottle,33,we can see a bottle,train
+24,bottle,34,one can see a bottle,train
+24,bottle,35,the photograph features a bottle,train
+24,bottle,36,the image features a bottle,train
+24,bottle,37,the picture features a bottle,train
+24,bottle,38,the scene features a bottle,train
+24,bottle,39,the object shown is a bottle,val
+24,bottle,40,a realistic image of a bottle,train
+24,bottle,41,a natural image of a bottle,train
+24,bottle,42,a simple image of a bottle,train
+24,bottle,43,a high-quality photo of a bottle,train
+24,bottle,44,a photograph containing a bottle,train
+24,bottle,45,a scene containing a bottle,val
+24,bottle,46,an everyday view of a bottle,train
+24,bottle,47,an example of a bottle,train
+24,bottle,48,a visual example of a bottle,val
+24,bottle,49,a recognizable bottle,train
+25,cup,0,a photo of a cup,train
+25,cup,1,a photograph of a cup,train
+25,cup,2,an image of a cup,train
+25,cup,3,a picture of a cup,train
+25,cup,4,a clear photo of a cup,train
+25,cup,5,a close-up photo of a cup,train
+25,cup,6,a detailed photo of a cup,train
+25,cup,7,a cropped photo of a cup,train
+25,cup,8,a bright photo of a cup,train
+25,cup,9,a dark photo of a cup,train
+25,cup,10,A cup in the scene,train
+25,cup,11,A cup visible in the image,train
+25,cup,12,A cup shown clearly,train
+25,cup,13,A cup in a photograph,val
+25,cup,14,A cup in the picture,train
+25,cup,15,A cup near the center of the image,train
+25,cup,16,A cup viewed from the front,train
+25,cup,17,A cup viewed from the side,val
+25,cup,18,A cup viewed from a distance,train
+25,cup,19,A cup seen nearby,val
+25,cup,20,the image contains a cup,train
+25,cup,21,the photo contains a cup,train
+25,cup,22,the picture contains a cup,train
+25,cup,23,the main object is a cup,train
+25,cup,24,the visible object is a cup,train
+25,cup,25,the central object is a cup,val
+25,cup,26,the scene includes a cup,val
+25,cup,27,this scene contains a cup,train
+25,cup,28,this photograph shows a cup,train
+25,cup,29,this image shows a cup,train
+25,cup,30,there is a cup in the image,val
+25,cup,31,there is a cup in the photo,train
+25,cup,32,there is a cup in the scene,val
+25,cup,33,we can see a cup,train
+25,cup,34,one can see a cup,train
+25,cup,35,the photograph features a cup,train
+25,cup,36,the image features a cup,train
+25,cup,37,the picture features a cup,train
+25,cup,38,the scene features a cup,train
+25,cup,39,the object shown is a cup,val
+25,cup,40,a realistic image of a cup,train
+25,cup,41,a natural image of a cup,train
+25,cup,42,a simple image of a cup,train
+25,cup,43,a high-quality photo of a cup,train
+25,cup,44,a photograph containing a cup,train
+25,cup,45,a scene containing a cup,val
+25,cup,46,an everyday view of a cup,train
+25,cup,47,an example of a cup,train
+25,cup,48,a visual example of a cup,val
+25,cup,49,a recognizable cup,train
+26,book,0,a photo of a book,train
+26,book,1,a photograph of a book,train
+26,book,2,an image of a book,train
+26,book,3,a picture of a book,train
+26,book,4,a clear photo of a book,train
+26,book,5,a close-up photo of a book,train
+26,book,6,a detailed photo of a book,train
+26,book,7,a cropped photo of a book,train
+26,book,8,a bright photo of a book,train
+26,book,9,a dark photo of a book,train
+26,book,10,A book in the scene,train
+26,book,11,A book visible in the image,train
+26,book,12,A book shown clearly,train
+26,book,13,A book in a photograph,val
+26,book,14,A book in the picture,train
+26,book,15,A book near the center of the image,train
+26,book,16,A book viewed from the front,train
+26,book,17,A book viewed from the side,val
+26,book,18,A book viewed from a distance,train
+26,book,19,A book seen nearby,val
+26,book,20,the image contains a book,train
+26,book,21,the photo contains a book,train
+26,book,22,the picture contains a book,train
+26,book,23,the main object is a book,train
+26,book,24,the visible object is a book,train
+26,book,25,the central object is a book,val
+26,book,26,the scene includes a book,val
+26,book,27,this scene contains a book,train
+26,book,28,this photograph shows a book,train
+26,book,29,this image shows a book,train
+26,book,30,there is a book in the image,val
+26,book,31,there is a book in the photo,train
+26,book,32,there is a book in the scene,val
+26,book,33,we can see a book,train
+26,book,34,one can see a book,train
+26,book,35,the photograph features a book,train
+26,book,36,the image features a book,train
+26,book,37,the picture features a book,train
+26,book,38,the scene features a book,train
+26,book,39,the object shown is a book,val
+26,book,40,a realistic image of a book,train
+26,book,41,a natural image of a book,train
+26,book,42,a simple image of a book,train
+26,book,43,a high-quality photo of a book,train
+26,book,44,a photograph containing a book,train
+26,book,45,a scene containing a book,val
+26,book,46,an everyday view of a book,train
+26,book,47,an example of a book,train
+26,book,48,a visual example of a book,val
+26,book,49,a recognizable book,train
+27,clock,0,a photo of a clock,train
+27,clock,1,a photograph of a clock,train
+27,clock,2,an image of a clock,train
+27,clock,3,a picture of a clock,train
+27,clock,4,a clear photo of a clock,train
+27,clock,5,a close-up photo of a clock,train
+27,clock,6,a detailed photo of a clock,train
+27,clock,7,a cropped photo of a clock,train
+27,clock,8,a bright photo of a clock,train
+27,clock,9,a dark photo of a clock,train
+27,clock,10,A clock in the scene,train
+27,clock,11,A clock visible in the image,train
+27,clock,12,A clock shown clearly,train
+27,clock,13,A clock in a photograph,val
+27,clock,14,A clock in the picture,train
+27,clock,15,A clock near the center of the image,train
+27,clock,16,A clock viewed from the front,train
+27,clock,17,A clock viewed from the side,val
+27,clock,18,A clock viewed from a distance,train
+27,clock,19,A clock seen nearby,val
+27,clock,20,the image contains a clock,train
+27,clock,21,the photo contains a clock,train
+27,clock,22,the picture contains a clock,train
+27,clock,23,the main object is a clock,train
+27,clock,24,the visible object is a clock,train
+27,clock,25,the central object is a clock,val
+27,clock,26,the scene includes a clock,val
+27,clock,27,this scene contains a clock,train
+27,clock,28,this photograph shows a clock,train
+27,clock,29,this image shows a clock,train
+27,clock,30,there is a clock in the image,val
+27,clock,31,there is a clock in the photo,train
+27,clock,32,there is a clock in the scene,val
+27,clock,33,we can see a clock,train
+27,clock,34,one can see a clock,train
+27,clock,35,the photograph features a clock,train
+27,clock,36,the image features a clock,train
+27,clock,37,the picture features a clock,train
+27,clock,38,the scene features a clock,train
+27,clock,39,the object shown is a clock,val
+27,clock,40,a realistic image of a clock,train
+27,clock,41,a natural image of a clock,train
+27,clock,42,a simple image of a clock,train
+27,clock,43,a high-quality photo of a clock,train
+27,clock,44,a photograph containing a clock,train
+27,clock,45,a scene containing a clock,val
+27,clock,46,an everyday view of a clock,train
+27,clock,47,an example of a clock,train
+27,clock,48,a visual example of a clock,val
+27,clock,49,a recognizable clock,train
+28,backpack,0,a photo of a backpack,train
+28,backpack,1,a photograph of a backpack,train
+28,backpack,2,an image of a backpack,train
+28,backpack,3,a picture of a backpack,train
+28,backpack,4,a clear photo of a backpack,train
+28,backpack,5,a close-up photo of a backpack,train
+28,backpack,6,a detailed photo of a backpack,train
+28,backpack,7,a cropped photo of a backpack,train
+28,backpack,8,a bright photo of a backpack,train
+28,backpack,9,a dark photo of a backpack,train
+28,backpack,10,A backpack in the scene,train
+28,backpack,11,A backpack visible in the image,train
+28,backpack,12,A backpack shown clearly,train
+28,backpack,13,A backpack in a photograph,val
+28,backpack,14,A backpack in the picture,train
+28,backpack,15,A backpack near the center of the image,train
+28,backpack,16,A backpack viewed from the front,train
+28,backpack,17,A backpack viewed from the side,val
+28,backpack,18,A backpack viewed from a distance,train
+28,backpack,19,A backpack seen nearby,val
+28,backpack,20,the image contains a backpack,train
+28,backpack,21,the photo contains a backpack,train
+28,backpack,22,the picture contains a backpack,train
+28,backpack,23,the main object is a backpack,train
+28,backpack,24,the visible object is a backpack,train
+28,backpack,25,the central object is a backpack,val
+28,backpack,26,the scene includes a backpack,val
+28,backpack,27,this scene contains a backpack,train
+28,backpack,28,this photograph shows a backpack,train
+28,backpack,29,this image shows a backpack,train
+28,backpack,30,there is a backpack in the image,val
+28,backpack,31,there is a backpack in the photo,train
+28,backpack,32,there is a backpack in the scene,val
+28,backpack,33,we can see a backpack,train
+28,backpack,34,one can see a backpack,train
+28,backpack,35,the photograph features a backpack,train
+28,backpack,36,the image features a backpack,train
+28,backpack,37,the picture features a backpack,train
+28,backpack,38,the scene features a backpack,train
+28,backpack,39,the object shown is a backpack,val
+28,backpack,40,a realistic image of a backpack,train
+28,backpack,41,a natural image of a backpack,train
+28,backpack,42,a simple image of a backpack,train
+28,backpack,43,a high-quality photo of a backpack,train
+28,backpack,44,a photograph containing a backpack,train
+28,backpack,45,a scene containing a backpack,val
+28,backpack,46,an everyday view of a backpack,train
+28,backpack,47,an example of a backpack,train
+28,backpack,48,a visual example of a backpack,val
+28,backpack,49,a recognizable backpack,train
+29,umbrella,0,a photo of an umbrella,train
+29,umbrella,1,a photograph of an umbrella,train
+29,umbrella,2,an image of an umbrella,train
+29,umbrella,3,a picture of an umbrella,train
+29,umbrella,4,a clear photo of an umbrella,train
+29,umbrella,5,a close-up photo of an umbrella,train
+29,umbrella,6,a detailed photo of an umbrella,train
+29,umbrella,7,a cropped photo of an umbrella,train
+29,umbrella,8,a bright photo of an umbrella,train
+29,umbrella,9,a dark photo of an umbrella,train
+29,umbrella,10,An umbrella in the scene,train
+29,umbrella,11,An umbrella visible in the image,train
+29,umbrella,12,An umbrella shown clearly,train
+29,umbrella,13,An umbrella in a photograph,val
+29,umbrella,14,An umbrella in the picture,train
+29,umbrella,15,An umbrella near the center of the image,train
+29,umbrella,16,An umbrella viewed from the front,train
+29,umbrella,17,An umbrella viewed from the side,val
+29,umbrella,18,An umbrella viewed from a distance,train
+29,umbrella,19,An umbrella seen nearby,val
+29,umbrella,20,the image contains an umbrella,train
+29,umbrella,21,the photo contains an umbrella,train
+29,umbrella,22,the picture contains an umbrella,train
+29,umbrella,23,the main object is an umbrella,train
+29,umbrella,24,the visible object is an umbrella,train
+29,umbrella,25,the central object is an umbrella,val
+29,umbrella,26,the scene includes an umbrella,val
+29,umbrella,27,this scene contains an umbrella,train
+29,umbrella,28,this photograph shows an umbrella,train
+29,umbrella,29,this image shows an umbrella,train
+29,umbrella,30,there is an umbrella in the image,val
+29,umbrella,31,there is an umbrella in the photo,train
+29,umbrella,32,there is an umbrella in the scene,val
+29,umbrella,33,we can see an umbrella,train
+29,umbrella,34,one can see an umbrella,train
+29,umbrella,35,the photograph features an umbrella,train
+29,umbrella,36,the image features an umbrella,train
+29,umbrella,37,the picture features an umbrella,train
+29,umbrella,38,the scene features an umbrella,train
+29,umbrella,39,the object shown is an umbrella,val
+29,umbrella,40,a realistic image of an umbrella,train
+29,umbrella,41,a natural image of an umbrella,train
+29,umbrella,42,a simple image of an umbrella,train
+29,umbrella,43,a high-quality photo of an umbrella,train
+29,umbrella,44,a photograph containing an umbrella,train
+29,umbrella,45,a scene containing an umbrella,val
+29,umbrella,46,an everyday view of an umbrella,train
+29,umbrella,47,an example of an umbrella,train
+29,umbrella,48,a visual example of an umbrella,val
+29,umbrella,49,a recognizable umbrella,train
+30,laptop,0,a photo of a laptop,train
+30,laptop,1,a photograph of a laptop,train
+30,laptop,2,an image of a laptop,train
+30,laptop,3,a picture of a laptop,train
+30,laptop,4,a clear photo of a laptop,train
+30,laptop,5,a close-up photo of a laptop,train
+30,laptop,6,a detailed photo of a laptop,train
+30,laptop,7,a cropped photo of a laptop,train
+30,laptop,8,a bright photo of a laptop,train
+30,laptop,9,a dark photo of a laptop,train
+30,laptop,10,A laptop in the scene,train
+30,laptop,11,A laptop visible in the image,train
+30,laptop,12,A laptop shown clearly,train
+30,laptop,13,A laptop in a photograph,val
+30,laptop,14,A laptop in the picture,train
+30,laptop,15,A laptop near the center of the image,train
+30,laptop,16,A laptop viewed from the front,train
+30,laptop,17,A laptop viewed from the side,val
+30,laptop,18,A laptop viewed from a distance,train
+30,laptop,19,A laptop seen nearby,val
+30,laptop,20,the image contains a laptop,train
+30,laptop,21,the photo contains a laptop,train
+30,laptop,22,the picture contains a laptop,train
+30,laptop,23,the main object is a laptop,train
+30,laptop,24,the visible object is a laptop,train
+30,laptop,25,the central object is a laptop,val
+30,laptop,26,the scene includes a laptop,val
+30,laptop,27,this scene contains a laptop,train
+30,laptop,28,this photograph shows a laptop,train
+30,laptop,29,this image shows a laptop,train
+30,laptop,30,there is a laptop in the image,val
+30,laptop,31,there is a laptop in the photo,train
+30,laptop,32,there is a laptop in the scene,val
+30,laptop,33,we can see a laptop,train
+30,laptop,34,one can see a laptop,train
+30,laptop,35,the photograph features a laptop,train
+30,laptop,36,the image features a laptop,train
+30,laptop,37,the picture features a laptop,train
+30,laptop,38,the scene features a laptop,train
+30,laptop,39,the object shown is a laptop,val
+30,laptop,40,a realistic image of a laptop,train
+30,laptop,41,a natural image of a laptop,train
+30,laptop,42,a simple image of a laptop,train
+30,laptop,43,a high-quality photo of a laptop,train
+30,laptop,44,a photograph containing a laptop,train
+30,laptop,45,a scene containing a laptop,val
+30,laptop,46,an everyday view of a laptop,train
+30,laptop,47,an example of a laptop,train
+30,laptop,48,a visual example of a laptop,val
+30,laptop,49,a recognizable laptop,train
+31,keyboard,0,a photo of a keyboard,train
+31,keyboard,1,a photograph of a keyboard,train
+31,keyboard,2,an image of a keyboard,train
+31,keyboard,3,a picture of a keyboard,train
+31,keyboard,4,a clear photo of a keyboard,train
+31,keyboard,5,a close-up photo of a keyboard,train
+31,keyboard,6,a detailed photo of a keyboard,train
+31,keyboard,7,a cropped photo of a keyboard,train
+31,keyboard,8,a bright photo of a keyboard,train
+31,keyboard,9,a dark photo of a keyboard,train
+31,keyboard,10,A keyboard in the scene,train
+31,keyboard,11,A keyboard visible in the image,train
+31,keyboard,12,A keyboard shown clearly,train
+31,keyboard,13,A keyboard in a photograph,val
+31,keyboard,14,A keyboard in the picture,train
+31,keyboard,15,A keyboard near the center of the image,train
+31,keyboard,16,A keyboard viewed from the front,train
+31,keyboard,17,A keyboard viewed from the side,val
+31,keyboard,18,A keyboard viewed from a distance,train
+31,keyboard,19,A keyboard seen nearby,val
+31,keyboard,20,the image contains a keyboard,train
+31,keyboard,21,the photo contains a keyboard,train
+31,keyboard,22,the picture contains a keyboard,train
+31,keyboard,23,the main object is a keyboard,train
+31,keyboard,24,the visible object is a keyboard,train
+31,keyboard,25,the central object is a keyboard,val
+31,keyboard,26,the scene includes a keyboard,val
+31,keyboard,27,this scene contains a keyboard,train
+31,keyboard,28,this photograph shows a keyboard,train
+31,keyboard,29,this image shows a keyboard,train
+31,keyboard,30,there is a keyboard in the image,val
+31,keyboard,31,there is a keyboard in the photo,train
+31,keyboard,32,there is a keyboard in the scene,val
+31,keyboard,33,we can see a keyboard,train
+31,keyboard,34,one can see a keyboard,train
+31,keyboard,35,the photograph features a keyboard,train
+31,keyboard,36,the image features a keyboard,train
+31,keyboard,37,the picture features a keyboard,train
+31,keyboard,38,the scene features a keyboard,train
+31,keyboard,39,the object shown is a keyboard,val
+31,keyboard,40,a realistic image of a keyboard,train
+31,keyboard,41,a natural image of a keyboard,train
+31,keyboard,42,a simple image of a keyboard,train
+31,keyboard,43,a high-quality photo of a keyboard,train
+31,keyboard,44,a photograph containing a keyboard,train
+31,keyboard,45,a scene containing a keyboard,val
+31,keyboard,46,an everyday view of a keyboard,train
+31,keyboard,47,an example of a keyboard,train
+31,keyboard,48,a visual example of a keyboard,val
+31,keyboard,49,a recognizable keyboard,train
+32,mouse,0,a photo of a mouse,train
+32,mouse,1,a photograph of a mouse,train
+32,mouse,2,an image of a mouse,train
+32,mouse,3,a picture of a mouse,train
+32,mouse,4,a clear photo of a mouse,train
+32,mouse,5,a close-up photo of a mouse,train
+32,mouse,6,a detailed photo of a mouse,train
+32,mouse,7,a cropped photo of a mouse,train
+32,mouse,8,a bright photo of a mouse,train
+32,mouse,9,a dark photo of a mouse,train
+32,mouse,10,A mouse in the scene,train
+32,mouse,11,A mouse visible in the image,train
+32,mouse,12,A mouse shown clearly,train
+32,mouse,13,A mouse in a photograph,val
+32,mouse,14,A mouse in the picture,train
+32,mouse,15,A mouse near the center of the image,train
+32,mouse,16,A mouse viewed from the front,train
+32,mouse,17,A mouse viewed from the side,val
+32,mouse,18,A mouse viewed from a distance,train
+32,mouse,19,A mouse seen nearby,val
+32,mouse,20,the image contains a mouse,train
+32,mouse,21,the photo contains a mouse,train
+32,mouse,22,the picture contains a mouse,train
+32,mouse,23,the main object is a mouse,train
+32,mouse,24,the visible object is a mouse,train
+32,mouse,25,the central object is a mouse,val
+32,mouse,26,the scene includes a mouse,val
+32,mouse,27,this scene contains a mouse,train
+32,mouse,28,this photograph shows a mouse,train
+32,mouse,29,this image shows a mouse,train
+32,mouse,30,there is a mouse in the image,val
+32,mouse,31,there is a mouse in the photo,train
+32,mouse,32,there is a mouse in the scene,val
+32,mouse,33,we can see a mouse,train
+32,mouse,34,one can see a mouse,train
+32,mouse,35,the photograph features a mouse,train
+32,mouse,36,the image features a mouse,train
+32,mouse,37,the picture features a mouse,train
+32,mouse,38,the scene features a mouse,train
+32,mouse,39,the object shown is a mouse,val
+32,mouse,40,a realistic image of a mouse,train
+32,mouse,41,a natural image of a mouse,train
+32,mouse,42,a simple image of a mouse,train
+32,mouse,43,a high-quality photo of a mouse,train
+32,mouse,44,a photograph containing a mouse,train
+32,mouse,45,a scene containing a mouse,val
+32,mouse,46,an everyday view of a mouse,train
+32,mouse,47,an example of a mouse,train
+32,mouse,48,a visual example of a mouse,val
+32,mouse,49,a recognizable mouse,train
+33,phone,0,a photo of a phone,train
+33,phone,1,a photograph of a phone,train
+33,phone,2,an image of a phone,train
+33,phone,3,a picture of a phone,train
+33,phone,4,a clear photo of a phone,train
+33,phone,5,a close-up photo of a phone,train
+33,phone,6,a detailed photo of a phone,train
+33,phone,7,a cropped photo of a phone,train
+33,phone,8,a bright photo of a phone,train
+33,phone,9,a dark photo of a phone,train
+33,phone,10,A phone in the scene,train
+33,phone,11,A phone visible in the image,train
+33,phone,12,A phone shown clearly,train
+33,phone,13,A phone in a photograph,val
+33,phone,14,A phone in the picture,train
+33,phone,15,A phone near the center of the image,train
+33,phone,16,A phone viewed from the front,train
+33,phone,17,A phone viewed from the side,val
+33,phone,18,A phone viewed from a distance,train
+33,phone,19,A phone seen nearby,val
+33,phone,20,the image contains a phone,train
+33,phone,21,the photo contains a phone,train
+33,phone,22,the picture contains a phone,train
+33,phone,23,the main object is a phone,train
+33,phone,24,the visible object is a phone,train
+33,phone,25,the central object is a phone,val
+33,phone,26,the scene includes a phone,val
+33,phone,27,this scene contains a phone,train
+33,phone,28,this photograph shows a phone,train
+33,phone,29,this image shows a phone,train
+33,phone,30,there is a phone in the image,val
+33,phone,31,there is a phone in the photo,train
+33,phone,32,there is a phone in the scene,val
+33,phone,33,we can see a phone,train
+33,phone,34,one can see a phone,train
+33,phone,35,the photograph features a phone,train
+33,phone,36,the image features a phone,train
+33,phone,37,the picture features a phone,train
+33,phone,38,the scene features a phone,train
+33,phone,39,the object shown is a phone,val
+33,phone,40,a realistic image of a phone,train
+33,phone,41,a natural image of a phone,train
+33,phone,42,a simple image of a phone,train
+33,phone,43,a high-quality photo of a phone,train
+33,phone,44,a photograph containing a phone,train
+33,phone,45,a scene containing a phone,val
+33,phone,46,an everyday view of a phone,train
+33,phone,47,an example of a phone,train
+33,phone,48,a visual example of a phone,val
+33,phone,49,a recognizable phone,train
+34,television,0,a photo of a television,train
+34,television,1,a photograph of a television,train
+34,television,2,an image of a television,train
+34,television,3,a picture of a television,train
+34,television,4,a clear photo of a television,train
+34,television,5,a close-up photo of a television,train
+34,television,6,a detailed photo of a television,train
+34,television,7,a cropped photo of a television,train
+34,television,8,a bright photo of a television,train
+34,television,9,a dark photo of a television,train
+34,television,10,A television in the scene,train
+34,television,11,A television visible in the image,train
+34,television,12,A television shown clearly,train
+34,television,13,A television in a photograph,val
+34,television,14,A television in the picture,train
+34,television,15,A television near the center of the image,train
+34,television,16,A television viewed from the front,train
+34,television,17,A television viewed from the side,val
+34,television,18,A television viewed from a distance,train
+34,television,19,A television seen nearby,val
+34,television,20,the image contains a television,train
+34,television,21,the photo contains a television,train
+34,television,22,the picture contains a television,train
+34,television,23,the main object is a television,train
+34,television,24,the visible object is a television,train
+34,television,25,the central object is a television,val
+34,television,26,the scene includes a television,val
+34,television,27,this scene contains a television,train
+34,television,28,this photograph shows a television,train
+34,television,29,this image shows a television,train
+34,television,30,there is a television in the image,val
+34,television,31,there is a television in the photo,train
+34,television,32,there is a television in the scene,val
+34,television,33,we can see a television,train
+34,television,34,one can see a television,train
+34,television,35,the photograph features a television,train
+34,television,36,the image features a television,train
+34,television,37,the picture features a television,train
+34,television,38,the scene features a television,train
+34,television,39,the object shown is a television,val
+34,television,40,a realistic image of a television,train
+34,television,41,a natural image of a television,train
+34,television,42,a simple image of a television,train
+34,television,43,a high-quality photo of a television,train
+34,television,44,a photograph containing a television,train
+34,television,45,a scene containing a television,val
+34,television,46,an everyday view of a television,train
+34,television,47,an example of a television,train
+34,television,48,a visual example of a television,val
+34,television,49,a recognizable television,train
+35,camera,0,a photo of a camera,train
+35,camera,1,a photograph of a camera,train
+35,camera,2,an image of a camera,train
+35,camera,3,a picture of a camera,train
+35,camera,4,a clear photo of a camera,train
+35,camera,5,a close-up photo of a camera,train
+35,camera,6,a detailed photo of a camera,train
+35,camera,7,a cropped photo of a camera,train
+35,camera,8,a bright photo of a camera,train
+35,camera,9,a dark photo of a camera,train
+35,camera,10,A camera in the scene,train
+35,camera,11,A camera visible in the image,train
+35,camera,12,A camera shown clearly,train
+35,camera,13,A camera in a photograph,val
+35,camera,14,A camera in the picture,train
+35,camera,15,A camera near the center of the image,train
+35,camera,16,A camera viewed from the front,train
+35,camera,17,A camera viewed from the side,val
+35,camera,18,A camera viewed from a distance,train
+35,camera,19,A camera seen nearby,val
+35,camera,20,the image contains a camera,train
+35,camera,21,the photo contains a camera,train
+35,camera,22,the picture contains a camera,train
+35,camera,23,the main object is a camera,train
+35,camera,24,the visible object is a camera,train
+35,camera,25,the central object is a camera,val
+35,camera,26,the scene includes a camera,val
+35,camera,27,this scene contains a camera,train
+35,camera,28,this photograph shows a camera,train
+35,camera,29,this image shows a camera,train
+35,camera,30,there is a camera in the image,val
+35,camera,31,there is a camera in the photo,train
+35,camera,32,there is a camera in the scene,val
+35,camera,33,we can see a camera,train
+35,camera,34,one can see a camera,train
+35,camera,35,the photograph features a camera,train
+35,camera,36,the image features a camera,train
+35,camera,37,the picture features a camera,train
+35,camera,38,the scene features a camera,train
+35,camera,39,the object shown is a camera,val
+35,camera,40,a realistic image of a camera,train
+35,camera,41,a natural image of a camera,train
+35,camera,42,a simple image of a camera,train
+35,camera,43,a high-quality photo of a camera,train
+35,camera,44,a photograph containing a camera,train
+35,camera,45,a scene containing a camera,val
+35,camera,46,an everyday view of a camera,train
+35,camera,47,an example of a camera,train
+35,camera,48,a visual example of a camera,val
+35,camera,49,a recognizable camera,train
+36,headphones,0,a photo of a headphones,train
+36,headphones,1,a photograph of a headphones,train
+36,headphones,2,an image of a headphones,train
+36,headphones,3,a picture of a headphones,train
+36,headphones,4,a clear photo of a headphones,train
+36,headphones,5,a close-up photo of a headphones,train
+36,headphones,6,a detailed photo of a headphones,train
+36,headphones,7,a cropped photo of a headphones,train
+36,headphones,8,a bright photo of a headphones,train
+36,headphones,9,a dark photo of a headphones,train
+36,headphones,10,A headphones in the scene,train
+36,headphones,11,A headphones visible in the image,train
+36,headphones,12,A headphones shown clearly,train
+36,headphones,13,A headphones in a photograph,val
+36,headphones,14,A headphones in the picture,train
+36,headphones,15,A headphones near the center of the image,train
+36,headphones,16,A headphones viewed from the front,train
+36,headphones,17,A headphones viewed from the side,val
+36,headphones,18,A headphones viewed from a distance,train
+36,headphones,19,A headphones seen nearby,val
+36,headphones,20,the image contains a headphones,train
+36,headphones,21,the photo contains a headphones,train
+36,headphones,22,the picture contains a headphones,train
+36,headphones,23,the main object is a headphones,train
+36,headphones,24,the visible object is a headphones,train
+36,headphones,25,the central object is a headphones,val
+36,headphones,26,the scene includes a headphones,val
+36,headphones,27,this scene contains a headphones,train
+36,headphones,28,this photograph shows a headphones,train
+36,headphones,29,this image shows a headphones,train
+36,headphones,30,there is a headphones in the image,val
+36,headphones,31,there is a headphones in the photo,train
+36,headphones,32,there is a headphones in the scene,val
+36,headphones,33,we can see a headphones,train
+36,headphones,34,one can see a headphones,train
+36,headphones,35,the photograph features a headphones,train
+36,headphones,36,the image features a headphones,train
+36,headphones,37,the picture features a headphones,train
+36,headphones,38,the scene features a headphones,train
+36,headphones,39,the object shown is a headphones,val
+36,headphones,40,a realistic image of a headphones,train
+36,headphones,41,a natural image of a headphones,train
+36,headphones,42,a simple image of a headphones,train
+36,headphones,43,a high-quality photo of a headphones,train
+36,headphones,44,a photograph containing a headphones,train
+36,headphones,45,a scene containing a headphones,val
+36,headphones,46,an everyday view of a headphones,train
+36,headphones,47,an example of a headphones,train
+36,headphones,48,a visual example of a headphones,val
+36,headphones,49,a recognizable headphones,train
+37,printer,0,a photo of a printer,train
+37,printer,1,a photograph of a printer,train
+37,printer,2,an image of a printer,train
+37,printer,3,a picture of a printer,train
+37,printer,4,a clear photo of a printer,train
+37,printer,5,a close-up photo of a printer,train
+37,printer,6,a detailed photo of a printer,train
+37,printer,7,a cropped photo of a printer,train
+37,printer,8,a bright photo of a printer,train
+37,printer,9,a dark photo of a printer,train
+37,printer,10,A printer in the scene,train
+37,printer,11,A printer visible in the image,train
+37,printer,12,A printer shown clearly,train
+37,printer,13,A printer in a photograph,val
+37,printer,14,A printer in the picture,train
+37,printer,15,A printer near the center of the image,train
+37,printer,16,A printer viewed from the front,train
+37,printer,17,A printer viewed from the side,val
+37,printer,18,A printer viewed from a distance,train
+37,printer,19,A printer seen nearby,val
+37,printer,20,the image contains a printer,train
+37,printer,21,the photo contains a printer,train
+37,printer,22,the picture contains a printer,train
+37,printer,23,the main object is a printer,train
+37,printer,24,the visible object is a printer,train
+37,printer,25,the central object is a printer,val
+37,printer,26,the scene includes a printer,val
+37,printer,27,this scene contains a printer,train
+37,printer,28,this photograph shows a printer,train
+37,printer,29,this image shows a printer,train
+37,printer,30,there is a printer in the image,val
+37,printer,31,there is a printer in the photo,train
+37,printer,32,there is a printer in the scene,val
+37,printer,33,we can see a printer,train
+37,printer,34,one can see a printer,train
+37,printer,35,the photograph features a printer,train
+37,printer,36,the image features a printer,train
+37,printer,37,the picture features a printer,train
+37,printer,38,the scene features a printer,train
+37,printer,39,the object shown is a printer,val
+37,printer,40,a realistic image of a printer,train
+37,printer,41,a natural image of a printer,train
+37,printer,42,a simple image of a printer,train
+37,printer,43,a high-quality photo of a printer,train
+37,printer,44,a photograph containing a printer,train
+37,printer,45,a scene containing a printer,val
+37,printer,46,an everyday view of a printer,train
+37,printer,47,an example of a printer,train
+37,printer,48,a visual example of a printer,val
+37,printer,49,a recognizable printer,train
+38,monitor,0,a photo of a monitor,train
+38,monitor,1,a photograph of a monitor,train
+38,monitor,2,an image of a monitor,train
+38,monitor,3,a picture of a monitor,train
+38,monitor,4,a clear photo of a monitor,train
+38,monitor,5,a close-up photo of a monitor,train
+38,monitor,6,a detailed photo of a monitor,train
+38,monitor,7,a cropped photo of a monitor,train
+38,monitor,8,a bright photo of a monitor,train
+38,monitor,9,a dark photo of a monitor,train
+38,monitor,10,A monitor in the scene,train
+38,monitor,11,A monitor visible in the image,train
+38,monitor,12,A monitor shown clearly,train
+38,monitor,13,A monitor in a photograph,val
+38,monitor,14,A monitor in the picture,train
+38,monitor,15,A monitor near the center of the image,train
+38,monitor,16,A monitor viewed from the front,train
+38,monitor,17,A monitor viewed from the side,val
+38,monitor,18,A monitor viewed from a distance,train
+38,monitor,19,A monitor seen nearby,val
+38,monitor,20,the image contains a monitor,train
+38,monitor,21,the photo contains a monitor,train
+38,monitor,22,the picture contains a monitor,train
+38,monitor,23,the main object is a monitor,train
+38,monitor,24,the visible object is a monitor,train
+38,monitor,25,the central object is a monitor,val
+38,monitor,26,the scene includes a monitor,val
+38,monitor,27,this scene contains a monitor,train
+38,monitor,28,this photograph shows a monitor,train
+38,monitor,29,this image shows a monitor,train
+38,monitor,30,there is a monitor in the image,val
+38,monitor,31,there is a monitor in the photo,train
+38,monitor,32,there is a monitor in the scene,val
+38,monitor,33,we can see a monitor,train
+38,monitor,34,one can see a monitor,train
+38,monitor,35,the photograph features a monitor,train
+38,monitor,36,the image features a monitor,train
+38,monitor,37,the picture features a monitor,train
+38,monitor,38,the scene features a monitor,train
+38,monitor,39,the object shown is a monitor,val
+38,monitor,40,a realistic image of a monitor,train
+38,monitor,41,a natural image of a monitor,train
+38,monitor,42,a simple image of a monitor,train
+38,monitor,43,a high-quality photo of a monitor,train
+38,monitor,44,a photograph containing a monitor,train
+38,monitor,45,a scene containing a monitor,val
+38,monitor,46,an everyday view of a monitor,train
+38,monitor,47,an example of a monitor,train
+38,monitor,48,a visual example of a monitor,val
+38,monitor,49,a recognizable monitor,train
+39,calculator,0,a photo of a calculator,train
+39,calculator,1,a photograph of a calculator,train
+39,calculator,2,an image of a calculator,train
+39,calculator,3,a picture of a calculator,train
+39,calculator,4,a clear photo of a calculator,train
+39,calculator,5,a close-up photo of a calculator,train
+39,calculator,6,a detailed photo of a calculator,train
+39,calculator,7,a cropped photo of a calculator,train
+39,calculator,8,a bright photo of a calculator,train
+39,calculator,9,a dark photo of a calculator,train
+39,calculator,10,A calculator in the scene,train
+39,calculator,11,A calculator visible in the image,train
+39,calculator,12,A calculator shown clearly,train
+39,calculator,13,A calculator in a photograph,val
+39,calculator,14,A calculator in the picture,train
+39,calculator,15,A calculator near the center of the image,train
+39,calculator,16,A calculator viewed from the front,train
+39,calculator,17,A calculator viewed from the side,val
+39,calculator,18,A calculator viewed from a distance,train
+39,calculator,19,A calculator seen nearby,val
+39,calculator,20,the image contains a calculator,train
+39,calculator,21,the photo contains a calculator,train
+39,calculator,22,the picture contains a calculator,train
+39,calculator,23,the main object is a calculator,train
+39,calculator,24,the visible object is a calculator,train
+39,calculator,25,the central object is a calculator,val
+39,calculator,26,the scene includes a calculator,val
+39,calculator,27,this scene contains a calculator,train
+39,calculator,28,this photograph shows a calculator,train
+39,calculator,29,this image shows a calculator,train
+39,calculator,30,there is a calculator in the image,val
+39,calculator,31,there is a calculator in the photo,train
+39,calculator,32,there is a calculator in the scene,val
+39,calculator,33,we can see a calculator,train
+39,calculator,34,one can see a calculator,train
+39,calculator,35,the photograph features a calculator,train
+39,calculator,36,the image features a calculator,train
+39,calculator,37,the picture features a calculator,train
+39,calculator,38,the scene features a calculator,train
+39,calculator,39,the object shown is a calculator,val
+39,calculator,40,a realistic image of a calculator,train
+39,calculator,41,a natural image of a calculator,train
+39,calculator,42,a simple image of a calculator,train
+39,calculator,43,a high-quality photo of a calculator,train
+39,calculator,44,a photograph containing a calculator,train
+39,calculator,45,a scene containing a calculator,val
+39,calculator,46,an everyday view of a calculator,train
+39,calculator,47,an example of a calculator,train
+39,calculator,48,a visual example of a calculator,val
+39,calculator,49,a recognizable calculator,train
+40,fire truck,0,a photo of a fire truck,train
+40,fire truck,1,a photograph of a fire truck,train
+40,fire truck,2,an image of a fire truck,train
+40,fire truck,3,a picture of a fire truck,train
+40,fire truck,4,a clear photo of a fire truck,train
+40,fire truck,5,a close-up photo of a fire truck,train
+40,fire truck,6,a detailed photo of a fire truck,train
+40,fire truck,7,a cropped photo of a fire truck,train
+40,fire truck,8,a bright photo of a fire truck,train
+40,fire truck,9,a dark photo of a fire truck,train
+40,fire truck,10,A fire truck in the scene,train
+40,fire truck,11,A fire truck visible in the image,train
+40,fire truck,12,A fire truck shown clearly,train
+40,fire truck,13,A fire truck in a photograph,val
+40,fire truck,14,A fire truck in the picture,train
+40,fire truck,15,A fire truck near the center of the image,train
+40,fire truck,16,A fire truck viewed from the front,train
+40,fire truck,17,A fire truck viewed from the side,val
+40,fire truck,18,A fire truck viewed from a distance,train
+40,fire truck,19,A fire truck seen nearby,val
+40,fire truck,20,the image contains a fire truck,train
+40,fire truck,21,the photo contains a fire truck,train
+40,fire truck,22,the picture contains a fire truck,train
+40,fire truck,23,the main object is a fire truck,train
+40,fire truck,24,the visible object is a fire truck,train
+40,fire truck,25,the central object is a fire truck,val
+40,fire truck,26,the scene includes a fire truck,val
+40,fire truck,27,this scene contains a fire truck,train
+40,fire truck,28,this photograph shows a fire truck,train
+40,fire truck,29,this image shows a fire truck,train
+40,fire truck,30,there is a fire truck in the image,val
+40,fire truck,31,there is a fire truck in the photo,train
+40,fire truck,32,there is a fire truck in the scene,val
+40,fire truck,33,we can see a fire truck,train
+40,fire truck,34,one can see a fire truck,train
+40,fire truck,35,the photograph features a fire truck,train
+40,fire truck,36,the image features a fire truck,train
+40,fire truck,37,the picture features a fire truck,train
+40,fire truck,38,the scene features a fire truck,train
+40,fire truck,39,the object shown is a fire truck,val
+40,fire truck,40,a realistic image of a fire truck,train
+40,fire truck,41,a natural image of a fire truck,train
+40,fire truck,42,a simple image of a fire truck,train
+40,fire truck,43,a high-quality photo of a fire truck,train
+40,fire truck,44,a photograph containing a fire truck,train
+40,fire truck,45,a scene containing a fire truck,val
+40,fire truck,46,an everyday view of a fire truck,train
+40,fire truck,47,an example of a fire truck,train
+40,fire truck,48,a visual example of a fire truck,val
+40,fire truck,49,a recognizable fire truck,train
+41,traffic light,0,a photo of a traffic light,train
+41,traffic light,1,a photograph of a traffic light,train
+41,traffic light,2,an image of a traffic light,train
+41,traffic light,3,a picture of a traffic light,train
+41,traffic light,4,a clear photo of a traffic light,train
+41,traffic light,5,a close-up photo of a traffic light,train
+41,traffic light,6,a detailed photo of a traffic light,train
+41,traffic light,7,a cropped photo of a traffic light,train
+41,traffic light,8,a bright photo of a traffic light,train
+41,traffic light,9,a dark photo of a traffic light,train
+41,traffic light,10,A traffic light in the scene,train
+41,traffic light,11,A traffic light visible in the image,train
+41,traffic light,12,A traffic light shown clearly,train
+41,traffic light,13,A traffic light in a photograph,val
+41,traffic light,14,A traffic light in the picture,train
+41,traffic light,15,A traffic light near the center of the image,train
+41,traffic light,16,A traffic light viewed from the front,train
+41,traffic light,17,A traffic light viewed from the side,val
+41,traffic light,18,A traffic light viewed from a distance,train
+41,traffic light,19,A traffic light seen nearby,val
+41,traffic light,20,the image contains a traffic light,train
+41,traffic light,21,the photo contains a traffic light,train
+41,traffic light,22,the picture contains a traffic light,train
+41,traffic light,23,the main object is a traffic light,train
+41,traffic light,24,the visible object is a traffic light,train
+41,traffic light,25,the central object is a traffic light,val
+41,traffic light,26,the scene includes a traffic light,val
+41,traffic light,27,this scene contains a traffic light,train
+41,traffic light,28,this photograph shows a traffic light,train
+41,traffic light,29,this image shows a traffic light,train
+41,traffic light,30,there is a traffic light in the image,val
+41,traffic light,31,there is a traffic light in the photo,train
+41,traffic light,32,there is a traffic light in the scene,val
+41,traffic light,33,we can see a traffic light,train
+41,traffic light,34,one can see a traffic light,train
+41,traffic light,35,the photograph features a traffic light,train
+41,traffic light,36,the image features a traffic light,train
+41,traffic light,37,the picture features a traffic light,train
+41,traffic light,38,the scene features a traffic light,train
+41,traffic light,39,the object shown is a traffic light,val
+41,traffic light,40,a realistic image of a traffic light,train
+41,traffic light,41,a natural image of a traffic light,train
+41,traffic light,42,a simple image of a traffic light,train
+41,traffic light,43,a high-quality photo of a traffic light,train
+41,traffic light,44,a photograph containing a traffic light,train
+41,traffic light,45,a scene containing a traffic light,val
+41,traffic light,46,an everyday view of a traffic light,train
+41,traffic light,47,an example of a traffic light,train
+41,traffic light,48,a visual example of a traffic light,val
+41,traffic light,49,a recognizable traffic light,train
+42,coffee mug,0,a photo of a coffee mug,train
+42,coffee mug,1,a photograph of a coffee mug,train
+42,coffee mug,2,an image of a coffee mug,train
+42,coffee mug,3,a picture of a coffee mug,train
+42,coffee mug,4,a clear photo of a coffee mug,train
+42,coffee mug,5,a close-up photo of a coffee mug,train
+42,coffee mug,6,a detailed photo of a coffee mug,train
+42,coffee mug,7,a cropped photo of a coffee mug,train
+42,coffee mug,8,a bright photo of a coffee mug,train
+42,coffee mug,9,a dark photo of a coffee mug,train
+42,coffee mug,10,A coffee mug in the scene,train
+42,coffee mug,11,A coffee mug visible in the image,train
+42,coffee mug,12,A coffee mug shown clearly,train
+42,coffee mug,13,A coffee mug in a photograph,val
+42,coffee mug,14,A coffee mug in the picture,train
+42,coffee mug,15,A coffee mug near the center of the image,train
+42,coffee mug,16,A coffee mug viewed from the front,train
+42,coffee mug,17,A coffee mug viewed from the side,val
+42,coffee mug,18,A coffee mug viewed from a distance,train
+42,coffee mug,19,A coffee mug seen nearby,val
+42,coffee mug,20,the image contains a coffee mug,train
+42,coffee mug,21,the photo contains a coffee mug,train
+42,coffee mug,22,the picture contains a coffee mug,train
+42,coffee mug,23,the main object is a coffee mug,train
+42,coffee mug,24,the visible object is a coffee mug,train
+42,coffee mug,25,the central object is a coffee mug,val
+42,coffee mug,26,the scene includes a coffee mug,val
+42,coffee mug,27,this scene contains a coffee mug,train
+42,coffee mug,28,this photograph shows a coffee mug,train
+42,coffee mug,29,this image shows a coffee mug,train
+42,coffee mug,30,there is a coffee mug in the image,val
+42,coffee mug,31,there is a coffee mug in the photo,train
+42,coffee mug,32,there is a coffee mug in the scene,val
+42,coffee mug,33,we can see a coffee mug,train
+42,coffee mug,34,one can see a coffee mug,train
+42,coffee mug,35,the photograph features a coffee mug,train
+42,coffee mug,36,the image features a coffee mug,train
+42,coffee mug,37,the picture features a coffee mug,train
+42,coffee mug,38,the scene features a coffee mug,train
+42,coffee mug,39,the object shown is a coffee mug,val
+42,coffee mug,40,a realistic image of a coffee mug,train
+42,coffee mug,41,a natural image of a coffee mug,train
+42,coffee mug,42,a simple image of a coffee mug,train
+42,coffee mug,43,a high-quality photo of a coffee mug,train
+42,coffee mug,44,a photograph containing a coffee mug,train
+42,coffee mug,45,a scene containing a coffee mug,val
+42,coffee mug,46,an everyday view of a coffee mug,train
+42,coffee mug,47,an example of a coffee mug,train
+42,coffee mug,48,a visual example of a coffee mug,val
+42,coffee mug,49,a recognizable coffee mug,train
+43,tennis racket,0,a photo of a tennis racket,train
+43,tennis racket,1,a photograph of a tennis racket,train
+43,tennis racket,2,an image of a tennis racket,train
+43,tennis racket,3,a picture of a tennis racket,train
+43,tennis racket,4,a clear photo of a tennis racket,train
+43,tennis racket,5,a close-up photo of a tennis racket,train
+43,tennis racket,6,a detailed photo of a tennis racket,train
+43,tennis racket,7,a cropped photo of a tennis racket,train
+43,tennis racket,8,a bright photo of a tennis racket,train
+43,tennis racket,9,a dark photo of a tennis racket,train
+43,tennis racket,10,A tennis racket in the scene,train
+43,tennis racket,11,A tennis racket visible in the image,train
+43,tennis racket,12,A tennis racket shown clearly,train
+43,tennis racket,13,A tennis racket in a photograph,val
+43,tennis racket,14,A tennis racket in the picture,train
+43,tennis racket,15,A tennis racket near the center of the image,train
+43,tennis racket,16,A tennis racket viewed from the front,train
+43,tennis racket,17,A tennis racket viewed from the side,val
+43,tennis racket,18,A tennis racket viewed from a distance,train
+43,tennis racket,19,A tennis racket seen nearby,val
+43,tennis racket,20,the image contains a tennis racket,train
+43,tennis racket,21,the photo contains a tennis racket,train
+43,tennis racket,22,the picture contains a tennis racket,train
+43,tennis racket,23,the main object is a tennis racket,train
+43,tennis racket,24,the visible object is a tennis racket,train
+43,tennis racket,25,the central object is a tennis racket,val
+43,tennis racket,26,the scene includes a tennis racket,val
+43,tennis racket,27,this scene contains a tennis racket,train
+43,tennis racket,28,this photograph shows a tennis racket,train
+43,tennis racket,29,this image shows a tennis racket,train
+43,tennis racket,30,there is a tennis racket in the image,val
+43,tennis racket,31,there is a tennis racket in the photo,train
+43,tennis racket,32,there is a tennis racket in the scene,val
+43,tennis racket,33,we can see a tennis racket,train
+43,tennis racket,34,one can see a tennis racket,train
+43,tennis racket,35,the photograph features a tennis racket,train
+43,tennis racket,36,the image features a tennis racket,train
+43,tennis racket,37,the picture features a tennis racket,train
+43,tennis racket,38,the scene features a tennis racket,train
+43,tennis racket,39,the object shown is a tennis racket,val
+43,tennis racket,40,a realistic image of a tennis racket,train
+43,tennis racket,41,a natural image of a tennis racket,train
+43,tennis racket,42,a simple image of a tennis racket,train
+43,tennis racket,43,a high-quality photo of a tennis racket,train
+43,tennis racket,44,a photograph containing a tennis racket,train
+43,tennis racket,45,a scene containing a tennis racket,val
+43,tennis racket,46,an everyday view of a tennis racket,train
+43,tennis racket,47,an example of a tennis racket,train
+43,tennis racket,48,a visual example of a tennis racket,val
+43,tennis racket,49,a recognizable tennis racket,train
+44,baseball bat,0,a photo of a baseball bat,train
+44,baseball bat,1,a photograph of a baseball bat,train
+44,baseball bat,2,an image of a baseball bat,train
+44,baseball bat,3,a picture of a baseball bat,train
+44,baseball bat,4,a clear photo of a baseball bat,train
+44,baseball bat,5,a close-up photo of a baseball bat,train
+44,baseball bat,6,a detailed photo of a baseball bat,train
+44,baseball bat,7,a cropped photo of a baseball bat,train
+44,baseball bat,8,a bright photo of a baseball bat,train
+44,baseball bat,9,a dark photo of a baseball bat,train
+44,baseball bat,10,A baseball bat in the scene,train
+44,baseball bat,11,A baseball bat visible in the image,train
+44,baseball bat,12,A baseball bat shown clearly,train
+44,baseball bat,13,A baseball bat in a photograph,val
+44,baseball bat,14,A baseball bat in the picture,train
+44,baseball bat,15,A baseball bat near the center of the image,train
+44,baseball bat,16,A baseball bat viewed from the front,train
+44,baseball bat,17,A baseball bat viewed from the side,val
+44,baseball bat,18,A baseball bat viewed from a distance,train
+44,baseball bat,19,A baseball bat seen nearby,val
+44,baseball bat,20,the image contains a baseball bat,train
+44,baseball bat,21,the photo contains a baseball bat,train
+44,baseball bat,22,the picture contains a baseball bat,train
+44,baseball bat,23,the main object is a baseball bat,train
+44,baseball bat,24,the visible object is a baseball bat,train
+44,baseball bat,25,the central object is a baseball bat,val
+44,baseball bat,26,the scene includes a baseball bat,val
+44,baseball bat,27,this scene contains a baseball bat,train
+44,baseball bat,28,this photograph shows a baseball bat,train
+44,baseball bat,29,this image shows a baseball bat,train
+44,baseball bat,30,there is a baseball bat in the image,val
+44,baseball bat,31,there is a baseball bat in the photo,train
+44,baseball bat,32,there is a baseball bat in the scene,val
+44,baseball bat,33,we can see a baseball bat,train
+44,baseball bat,34,one can see a baseball bat,train
+44,baseball bat,35,the photograph features a baseball bat,train
+44,baseball bat,36,the image features a baseball bat,train
+44,baseball bat,37,the picture features a baseball bat,train
+44,baseball bat,38,the scene features a baseball bat,train
+44,baseball bat,39,the object shown is a baseball bat,val
+44,baseball bat,40,a realistic image of a baseball bat,train
+44,baseball bat,41,a natural image of a baseball bat,train
+44,baseball bat,42,a simple image of a baseball bat,train
+44,baseball bat,43,a high-quality photo of a baseball bat,train
+44,baseball bat,44,a photograph containing a baseball bat,train
+44,baseball bat,45,a scene containing a baseball bat,val
+44,baseball bat,46,an everyday view of a baseball bat,train
+44,baseball bat,47,an example of a baseball bat,train
+44,baseball bat,48,a visual example of a baseball bat,val
+44,baseball bat,49,a recognizable baseball bat,train
+45,parking meter,0,a photo of a parking meter,train
+45,parking meter,1,a photograph of a parking meter,train
+45,parking meter,2,an image of a parking meter,train
+45,parking meter,3,a picture of a parking meter,train
+45,parking meter,4,a clear photo of a parking meter,train
+45,parking meter,5,a close-up photo of a parking meter,train
+45,parking meter,6,a detailed photo of a parking meter,train
+45,parking meter,7,a cropped photo of a parking meter,train
+45,parking meter,8,a bright photo of a parking meter,train
+45,parking meter,9,a dark photo of a parking meter,train
+45,parking meter,10,A parking meter in the scene,train
+45,parking meter,11,A parking meter visible in the image,train
+45,parking meter,12,A parking meter shown clearly,train
+45,parking meter,13,A parking meter in a photograph,val
+45,parking meter,14,A parking meter in the picture,train
+45,parking meter,15,A parking meter near the center of the image,train
+45,parking meter,16,A parking meter viewed from the front,train
+45,parking meter,17,A parking meter viewed from the side,val
+45,parking meter,18,A parking meter viewed from a distance,train
+45,parking meter,19,A parking meter seen nearby,val
+45,parking meter,20,the image contains a parking meter,train
+45,parking meter,21,the photo contains a parking meter,train
+45,parking meter,22,the picture contains a parking meter,train
+45,parking meter,23,the main object is a parking meter,train
+45,parking meter,24,the visible object is a parking meter,train
+45,parking meter,25,the central object is a parking meter,val
+45,parking meter,26,the scene includes a parking meter,val
+45,parking meter,27,this scene contains a parking meter,train
+45,parking meter,28,this photograph shows a parking meter,train
+45,parking meter,29,this image shows a parking meter,train
+45,parking meter,30,there is a parking meter in the image,val
+45,parking meter,31,there is a parking meter in the photo,train
+45,parking meter,32,there is a parking meter in the scene,val
+45,parking meter,33,we can see a parking meter,train
+45,parking meter,34,one can see a parking meter,train
+45,parking meter,35,the photograph features a parking meter,train
+45,parking meter,36,the image features a parking meter,train
+45,parking meter,37,the picture features a parking meter,train
+45,parking meter,38,the scene features a parking meter,train
+45,parking meter,39,the object shown is a parking meter,val
+45,parking meter,40,a realistic image of a parking meter,train
+45,parking meter,41,a natural image of a parking meter,train
+45,parking meter,42,a simple image of a parking meter,train
+45,parking meter,43,a high-quality photo of a parking meter,train
+45,parking meter,44,a photograph containing a parking meter,train
+45,parking meter,45,a scene containing a parking meter,val
+45,parking meter,46,an everyday view of a parking meter,train
+45,parking meter,47,an example of a parking meter,train
+45,parking meter,48,a visual example of a parking meter,val
+45,parking meter,49,a recognizable parking meter,train
+46,street sign,0,a photo of a street sign,train
+46,street sign,1,a photograph of a street sign,train
+46,street sign,2,an image of a street sign,train
+46,street sign,3,a picture of a street sign,train
+46,street sign,4,a clear photo of a street sign,train
+46,street sign,5,a close-up photo of a street sign,train
+46,street sign,6,a detailed photo of a street sign,train
+46,street sign,7,a cropped photo of a street sign,train
+46,street sign,8,a bright photo of a street sign,train
+46,street sign,9,a dark photo of a street sign,train
+46,street sign,10,A street sign in the scene,train
+46,street sign,11,A street sign visible in the image,train
+46,street sign,12,A street sign shown clearly,train
+46,street sign,13,A street sign in a photograph,val
+46,street sign,14,A street sign in the picture,train
+46,street sign,15,A street sign near the center of the image,train
+46,street sign,16,A street sign viewed from the front,train
+46,street sign,17,A street sign viewed from the side,val
+46,street sign,18,A street sign viewed from a distance,train
+46,street sign,19,A street sign seen nearby,val
+46,street sign,20,the image contains a street sign,train
+46,street sign,21,the photo contains a street sign,train
+46,street sign,22,the picture contains a street sign,train
+46,street sign,23,the main object is a street sign,train
+46,street sign,24,the visible object is a street sign,train
+46,street sign,25,the central object is a street sign,val
+46,street sign,26,the scene includes a street sign,val
+46,street sign,27,this scene contains a street sign,train
+46,street sign,28,this photograph shows a street sign,train
+46,street sign,29,this image shows a street sign,train
+46,street sign,30,there is a street sign in the image,val
+46,street sign,31,there is a street sign in the photo,train
+46,street sign,32,there is a street sign in the scene,val
+46,street sign,33,we can see a street sign,train
+46,street sign,34,one can see a street sign,train
+46,street sign,35,the photograph features a street sign,train
+46,street sign,36,the image features a street sign,train
+46,street sign,37,the picture features a street sign,train
+46,street sign,38,the scene features a street sign,train
+46,street sign,39,the object shown is a street sign,val
+46,street sign,40,a realistic image of a street sign,train
+46,street sign,41,a natural image of a street sign,train
+46,street sign,42,a simple image of a street sign,train
+46,street sign,43,a high-quality photo of a street sign,train
+46,street sign,44,a photograph containing a street sign,train
+46,street sign,45,a scene containing a street sign,val
+46,street sign,46,an everyday view of a street sign,train
+46,street sign,47,an example of a street sign,train
+46,street sign,48,a visual example of a street sign,val
+46,street sign,49,a recognizable street sign,train
+47,water bottle,0,a photo of a water bottle,train
+47,water bottle,1,a photograph of a water bottle,train
+47,water bottle,2,an image of a water bottle,train
+47,water bottle,3,a picture of a water bottle,train
+47,water bottle,4,a clear photo of a water bottle,train
+47,water bottle,5,a close-up photo of a water bottle,train
+47,water bottle,6,a detailed photo of a water bottle,train
+47,water bottle,7,a cropped photo of a water bottle,train
+47,water bottle,8,a bright photo of a water bottle,train
+47,water bottle,9,a dark photo of a water bottle,train
+47,water bottle,10,A water bottle in the scene,train
+47,water bottle,11,A water bottle visible in the image,train
+47,water bottle,12,A water bottle shown clearly,train
+47,water bottle,13,A water bottle in a photograph,val
+47,water bottle,14,A water bottle in the picture,train
+47,water bottle,15,A water bottle near the center of the image,train
+47,water bottle,16,A water bottle viewed from the front,train
+47,water bottle,17,A water bottle viewed from the side,val
+47,water bottle,18,A water bottle viewed from a distance,train
+47,water bottle,19,A water bottle seen nearby,val
+47,water bottle,20,the image contains a water bottle,train
+47,water bottle,21,the photo contains a water bottle,train
+47,water bottle,22,the picture contains a water bottle,train
+47,water bottle,23,the main object is a water bottle,train
+47,water bottle,24,the visible object is a water bottle,train
+47,water bottle,25,the central object is a water bottle,val
+47,water bottle,26,the scene includes a water bottle,val
+47,water bottle,27,this scene contains a water bottle,train
+47,water bottle,28,this photograph shows a water bottle,train
+47,water bottle,29,this image shows a water bottle,train
+47,water bottle,30,there is a water bottle in the image,val
+47,water bottle,31,there is a water bottle in the photo,train
+47,water bottle,32,there is a water bottle in the scene,val
+47,water bottle,33,we can see a water bottle,train
+47,water bottle,34,one can see a water bottle,train
+47,water bottle,35,the photograph features a water bottle,train
+47,water bottle,36,the image features a water bottle,train
+47,water bottle,37,the picture features a water bottle,train
+47,water bottle,38,the scene features a water bottle,train
+47,water bottle,39,the object shown is a water bottle,val
+47,water bottle,40,a realistic image of a water bottle,train
+47,water bottle,41,a natural image of a water bottle,train
+47,water bottle,42,a simple image of a water bottle,train
+47,water bottle,43,a high-quality photo of a water bottle,train
+47,water bottle,44,a photograph containing a water bottle,train
+47,water bottle,45,a scene containing a water bottle,val
+47,water bottle,46,an everyday view of a water bottle,train
+47,water bottle,47,an example of a water bottle,train
+47,water bottle,48,a visual example of a water bottle,val
+47,water bottle,49,a recognizable water bottle,train
+48,office chair,0,a photo of an office chair,train
+48,office chair,1,a photograph of an office chair,train
+48,office chair,2,an image of an office chair,train
+48,office chair,3,a picture of an office chair,train
+48,office chair,4,a clear photo of an office chair,train
+48,office chair,5,a close-up photo of an office chair,train
+48,office chair,6,a detailed photo of an office chair,train
+48,office chair,7,a cropped photo of an office chair,train
+48,office chair,8,a bright photo of an office chair,train
+48,office chair,9,a dark photo of an office chair,train
+48,office chair,10,An office chair in the scene,train
+48,office chair,11,An office chair visible in the image,train
+48,office chair,12,An office chair shown clearly,train
+48,office chair,13,An office chair in a photograph,val
+48,office chair,14,An office chair in the picture,train
+48,office chair,15,An office chair near the center of the image,train
+48,office chair,16,An office chair viewed from the front,train
+48,office chair,17,An office chair viewed from the side,val
+48,office chair,18,An office chair viewed from a distance,train
+48,office chair,19,An office chair seen nearby,val
+48,office chair,20,the image contains an office chair,train
+48,office chair,21,the photo contains an office chair,train
+48,office chair,22,the picture contains an office chair,train
+48,office chair,23,the main object is an office chair,train
+48,office chair,24,the visible object is an office chair,train
+48,office chair,25,the central object is an office chair,val
+48,office chair,26,the scene includes an office chair,val
+48,office chair,27,this scene contains an office chair,train
+48,office chair,28,this photograph shows an office chair,train
+48,office chair,29,this image shows an office chair,train
+48,office chair,30,there is an office chair in the image,val
+48,office chair,31,there is an office chair in the photo,train
+48,office chair,32,there is an office chair in the scene,val
+48,office chair,33,we can see an office chair,train
+48,office chair,34,one can see an office chair,train
+48,office chair,35,the photograph features an office chair,train
+48,office chair,36,the image features an office chair,train
+48,office chair,37,the picture features an office chair,train
+48,office chair,38,the scene features an office chair,train
+48,office chair,39,the object shown is an office chair,val
+48,office chair,40,a realistic image of an office chair,train
+48,office chair,41,a natural image of an office chair,train
+48,office chair,42,a simple image of an office chair,train
+48,office chair,43,a high-quality photo of an office chair,train
+48,office chair,44,a photograph containing an office chair,train
+48,office chair,45,a scene containing an office chair,val
+48,office chair,46,an everyday view of an office chair,train
+48,office chair,47,an example of an office chair,train
+48,office chair,48,a visual example of an office chair,val
+48,office chair,49,a recognizable office chair,train
+49,dining table,0,a photo of a dining table,train
+49,dining table,1,a photograph of a dining table,train
+49,dining table,2,an image of a dining table,train
+49,dining table,3,a picture of a dining table,train
+49,dining table,4,a clear photo of a dining table,train
+49,dining table,5,a close-up photo of a dining table,train
+49,dining table,6,a detailed photo of a dining table,train
+49,dining table,7,a cropped photo of a dining table,train
+49,dining table,8,a bright photo of a dining table,train
+49,dining table,9,a dark photo of a dining table,train
+49,dining table,10,A dining table in the scene,train
+49,dining table,11,A dining table visible in the image,train
+49,dining table,12,A dining table shown clearly,train
+49,dining table,13,A dining table in a photograph,val
+49,dining table,14,A dining table in the picture,train
+49,dining table,15,A dining table near the center of the image,train
+49,dining table,16,A dining table viewed from the front,train
+49,dining table,17,A dining table viewed from the side,val
+49,dining table,18,A dining table viewed from a distance,train
+49,dining table,19,A dining table seen nearby,val
+49,dining table,20,the image contains a dining table,train
+49,dining table,21,the photo contains a dining table,train
+49,dining table,22,the picture contains a dining table,train
+49,dining table,23,the main object is a dining table,train
+49,dining table,24,the visible object is a dining table,train
+49,dining table,25,the central object is a dining table,val
+49,dining table,26,the scene includes a dining table,val
+49,dining table,27,this scene contains a dining table,train
+49,dining table,28,this photograph shows a dining table,train
+49,dining table,29,this image shows a dining table,train
+49,dining table,30,there is a dining table in the image,val
+49,dining table,31,there is a dining table in the photo,train
+49,dining table,32,there is a dining table in the scene,val
+49,dining table,33,we can see a dining table,train
+49,dining table,34,one can see a dining table,train
+49,dining table,35,the photograph features a dining table,train
+49,dining table,36,the image features a dining table,train
+49,dining table,37,the picture features a dining table,train
+49,dining table,38,the scene features a dining table,train
+49,dining table,39,the object shown is a dining table,val
+49,dining table,40,a realistic image of a dining table,train
+49,dining table,41,a natural image of a dining table,train
+49,dining table,42,a simple image of a dining table,train
+49,dining table,43,a high-quality photo of a dining table,train
+49,dining table,44,a photograph containing a dining table,train
+49,dining table,45,a scene containing a dining table,val
+49,dining table,46,an everyday view of a dining table,train
+49,dining table,47,an example of a dining table,train
+49,dining table,48,a visual example of a dining table,val
+49,dining table,49,a recognizable dining table,train
